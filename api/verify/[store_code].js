@@ -1,33 +1,13 @@
-// Vercel Serverless API - Store Verification
-const stores = [
-    {
-        "store_code": "RP-EBO",
-        "store_name": "RP Auto World Demo",
-        "address": "Plot No.13, Near Shantigopal Hospital, Judges Enclave, Ahinsa Khand 2, Indrapuram, Ghaziabad",
-        "city": "Ghaziabad",
-        "state": "Uttar Pradesh",
-        "contact_number": "8800354354",
-        "since": "31-May-2016"
-    },
-    {
-        "store_code": "AG001",
-        "store_name": "Autoform India - Karol Bagh",
-        "address": "Shop No. 15, Gaffar Market, Karol Bagh",
-        "city": "New Delhi",
-        "state": "Delhi",
-        "contact_number": "9876543210",
-        "since": "2024"
-    },
-    {
-        "store_code": "AG002",
-        "store_name": "Autoform India - Bandra",
-        "address": "101, Linking Road, Bandra West",
-        "city": "Mumbai",
-        "state": "Maharashtra",
-        "contact_number": "9123456789",
-        "since": "2024"
-    }
-];
+// Vercel Serverless API - Dynamic JSON Store Verification
+import { readFileSync } from 'fs';
+import { join } from 'path';
+
+// Read stores from JSON file
+function getStores() {
+    const filePath = join(process.cwd(), 'data', 'stores.json');
+    const data = JSON.parse(readFileSync(filePath, 'utf8'));
+    return data.stores;
+}
 
 export default function handler(req, res) {
     // Enable CORS
@@ -37,27 +17,38 @@ export default function handler(req, res) {
     const { store_code } = req.query;
 
     if (!store_code) {
-        return res.status(400).json({ verified: false, message: 'Store code required' });
-    }
-
-    const store = stores.find(s =>
-        s.store_code.toUpperCase() === store_code.toUpperCase()
-    );
-
-    if (!store) {
-        return res.status(404).json({
+        return res.status(400).json({
             verified: false,
-            message: 'This store is NOT an authorized Autoform India Pvt Ltd franchise'
+            message: 'Store code is required'
         });
     }
 
-    return res.status(200).json({
-        verified: true,
-        store_name: store.store_name,
-        address: store.address,
-        city: store.city,
-        state: store.state,
-        contact_number: store.contact_number,
-        since: store.since
-    });
+    try {
+        const stores = getStores();
+        const store = stores.find(s =>
+            s.store_code.toUpperCase() === store_code.toUpperCase()
+        );
+
+        if (!store) {
+            return res.status(404).json({
+                verified: false,
+                message: 'This store is NOT an authorized Autoform India Pvt Ltd franchise'
+            });
+        }
+
+        return res.status(200).json({
+            verified: true,
+            store_name: store.store_name,
+            address: store.address,
+            city: store.city,
+            state: store.state,
+            contact_number: store.contact_number,
+            since: store.since
+        });
+    } catch (error) {
+        return res.status(500).json({
+            verified: false,
+            message: 'Server error. Please try again.'
+        });
+    }
 }
