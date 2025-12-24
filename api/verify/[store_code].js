@@ -2,7 +2,7 @@
 const stores = [
     {
         "store_code": "RP-EBO",
-        "store_name": "RP Auto World",
+        "store_name": "RP Auto World Demo",
         "address": "Plot No.13, Near Shantigopal Hospital, Judges Enclave, Ahinsa Khand 2, Indrapuram, Ghaziabad",
         "city": "Ghaziabad",
         "state": "Uttar Pradesh",
