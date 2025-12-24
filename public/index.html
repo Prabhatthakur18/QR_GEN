@@ -14,6 +14,7 @@
       <div class="logo">
         <img src="/images/header-logo.png" alt="AUTOFORM" class="header-logo-img">
       </div>
+      <div class="portal-badge">Verification Portal</div>
     </header>
 
     <main class="main">
@@ -75,21 +76,20 @@
 
       <!-- Not Found -->
       <div id="not-found" class="state-card hidden">
-        <div class="shield-container error">
-          <img src="/images/shield-check.png" alt="Not Authorized" class="shield-img error">
-          <div class="verified-text">
-            <span class="verified-label error">Not</span>
-            <span class="franchise-label error">Authorized</span>
+        <div class="error-badge-container">
+          <div class="error-pill">
+            <span class="x-icon">✕</span> Not Authorized
           </div>
         </div>
 
-        <div class="store-card error-card">
-          <h2>Store Not Found</h2>
-          <p id="error-msg">This store is NOT an authorized Autoform India Pvt Ltd franchise.</p>
-          <div class="trust-msg error">
-            <span class="trust-icon">⚠️</span>
-            The QR code may be fake or tampered with. Please be cautious.
-          </div>
+        <div class="error-main-card">
+          <h1 class="error-title">Store Not Found</h1>
+          <p id="error-msg" class="error-subtitle">This store is NOT an authorized Autoform India Pvt Ltd franchise.</p>
+        </div>
+
+        <div class="error-warning-box">
+          <span class="warning-icon">⚠️</span>
+          <p>The QR code may be fake or tampered with. Please be cautious.</p>
         </div>
       </div>
     </main>
