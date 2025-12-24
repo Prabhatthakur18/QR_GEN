@@ -57,22 +57,6 @@ body {
   width: auto;
 }
 
-.secure-badge {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 0.75rem;
-  color: var(--muted);
-}
-
-.secure-dot {
-  width: 8px;
-  height: 8px;
-  background: var(--verified);
-  border-radius: 50%;
-  box-shadow: 0 0 8px var(--verified-glow);
-}
-
 /* Main */
 .main {
   flex: 1;
@@ -164,45 +148,15 @@ body {
   margin-bottom: 1.5rem;
 }
 
-.shield {
-  width: 100px;
-  height: 120px;
-  margin: 0 auto 1rem;
-  background: linear-gradient(180deg, rgba(0, 212, 170, 0.2) 0%, rgba(0, 100, 80, 0.3) 100%);
-  border: 2px solid rgba(0, 212, 170, 0.5);
-  border-radius: 10px 10px 50% 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  box-shadow: 0 0 30px rgba(0, 212, 170, 0.2), inset 0 0 20px rgba(0, 212, 170, 0.1);
+.shield-img {
+  width: 120px;
+  height: auto;
+  margin-bottom: 1rem;
+  filter: drop-shadow(0 0 20px rgba(0, 212, 170, 0.3));
 }
 
-.shield::before {
-  content: '';
-  position: absolute;
-  inset: 8px;
-  border: 1px solid rgba(0, 212, 170, 0.3);
-  border-radius: 8px 8px 45% 45%;
-}
-
-.shield-check {
-  font-size: 2.5rem;
-  color: var(--verified);
-}
-
-.shield.error {
-  background: linear-gradient(180deg, rgba(255, 59, 92, 0.2) 0%, rgba(150, 30, 50, 0.3) 100%);
-  border-color: rgba(255, 59, 92, 0.5);
-  box-shadow: 0 0 30px rgba(255, 59, 92, 0.2), inset 0 0 20px rgba(255, 59, 92, 0.1);
-}
-
-.shield.error::before {
-  border-color: rgba(255, 59, 92, 0.3);
-}
-
-.shield-check.error {
-  color: var(--error);
+.shield-img.error {
+  filter: grayscale(1) opacity(0.5) drop-shadow(0 0 10px rgba(255, 255, 255, 0.1));
 }
 
 .verified-text {
