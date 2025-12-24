@@ -10,10 +10,10 @@
   --card-bg: rgba(20, 25, 40, 0.8);
   --text: #ffffff;
   --muted: #888;
-  --verified: #00d4aa;
-  --verified-glow: rgba(0, 212, 170, 0.3);
+  --verified: #ffcc00;
+  --verified-glow: rgba(255, 204, 0, 0.3);
   --error: #ff3b5c;
-  --accent: #00d4aa;
+  --accent: #ffcc00;
   --gradient-start: #0a4d4d;
   --gradient-end: #1a1a2e;
 }
@@ -285,7 +285,7 @@ body {
   align-items: center;
   padding: 1rem 0;
   font-size: 0.7rem;
-  color: var(--muted);
+  color: #ffffff;
   border-top: 1px solid rgba(255, 255, 255, 0.05);
   margin-top: auto;
 }
@@ -301,7 +301,7 @@ body {
 }
 
 .social-link {
-  color: var(--muted);
+  color: #ffffff;
   transition: color 0.2s;
 }
 
