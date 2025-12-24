@@ -38,24 +38,11 @@ body {
 .logo {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
 }
 
-.logo-icon {
-  width: 40px;
+.logo-img {
   height: 40px;
-  background: linear-gradient(135deg, var(--accent), #818cf8);
-  border-radius: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 800;
-  font-size: 0.875rem;
-}
-
-.logo-text {
-  font-weight: 700;
-  font-size: 1.25rem;
+  width: auto;
 }
 
 .header-badge {
