@@ -149,7 +149,7 @@ body {
 }
 
 .shield-img {
-  width: 120px;
+  width: 180px;
   height: auto;
   margin-bottom: 1rem;
   filter: drop-shadow(0 0 20px rgba(0, 212, 170, 0.3));
