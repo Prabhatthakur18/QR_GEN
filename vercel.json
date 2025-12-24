@@ -1,0 +1,16 @@
+{
+    "buildCommand": "npm install",
+    "outputDirectory": "public",
+    "rewrites": [
+        {
+            "source": "/verify/:path*",
+            "destination": "/index.html"
+        }
+    ],
+    "functions": {
+        "api/**/*.js": {
+            "memory": 128,
+            "maxDuration": 10
+        }
+    }
+}
