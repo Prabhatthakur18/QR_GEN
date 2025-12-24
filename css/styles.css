@@ -72,21 +72,44 @@ body {
   text-align: center;
 }
 
+.loader-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 2rem;
+}
+
+.loader-icon {
+  width: 50px;
+  height: auto;
+  opacity: 0;
+  animation: iconAppear 0.5s ease forwards, iconPulse 2s ease-in-out 0.5s infinite;
+}
+
+@keyframes iconAppear {
+  0% { opacity: 0; transform: scale(0.5) rotate(-10deg); }
+  100% { opacity: 1; transform: scale(1) rotate(0deg); }
+}
+
+@keyframes iconPulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
 .animated-text {
   display: flex;
-  justify-content: center;
-  gap: 4px;
-  margin-bottom: 1.5rem;
+  gap: 2px;
 }
 
 .letter {
-  font-size: 2.5rem;
-  font-weight: 800;
-  color: var(--accent);
+  font-size: 1.8rem;
+  font-weight: 300;
+  letter-spacing: 2px;
+  color: #ffffff;
   opacity: 0;
-  animation: letterAppear 0.5s ease forwards, letterPulse 2s ease-in-out infinite;
-  animation-delay: calc(var(--i) * 0.1s), calc(0.8s + var(--i) * 0.1s);
-  text-shadow: 0 0 20px rgba(99, 102, 241, 0.5);
+  animation: letterAppear 0.4s ease forwards;
+  animation-delay: calc(0.3s + var(--i) * 0.08s);
 }
 
 @keyframes letterAppear {

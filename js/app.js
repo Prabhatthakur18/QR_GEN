@@ -42,5 +42,5 @@ async function verifyStore() {
     }
 }
 
-// Start verification
-setTimeout(verifyStore, 800);
+// Start verification after animation completes
+setTimeout(verifyStore, 2000);
