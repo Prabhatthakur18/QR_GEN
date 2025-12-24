@@ -1,0 +1,32 @@
+{
+    "stores": [
+        {
+            "store_code": "RP-EBO",
+            "store_name": "RP Auto World",
+            "address": "Plot No.13, Near Shantigopal Hospital, Judges Enclave, Ahinsa Khand 2, Indrapuram, Ghaziabad",
+            "city": "Ghaziabad",
+            "state": "Uttar Pradesh",
+            "contact_number": "8800354354",
+            "email": "rpautoworld@gmail.com",
+            "since": "31-May-2016"
+        },
+        {
+            "store_code": "AG001",
+            "store_name": "Antigravity Authorized Store - Karol Bagh",
+            "address": "Shop No. 15, Gaffar Market, Karol Bagh",
+            "city": "New Delhi",
+            "state": "Delhi",
+            "contact_number": "9876543210",
+            "since": "2024"
+        },
+        {
+            "store_code": "AG002",
+            "store_name": "Antigravity Premium Outlet - Bandra",
+            "address": "101, Linking Road, Bandra West",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "contact_number": "9123456789",
+            "since": "2024"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "qr-generator",
+    "version": "1.0.0",
+    "scripts": {
+        "generate": "node generate.js"
+    },
+    "dependencies": {
+        "qrcode": "^1.5.3"
+    }
+}
