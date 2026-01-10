@@ -29,7 +29,7 @@ async function verifyStore() {
                 `${data.address}, ${data.city}, ${data.state}`;
             document.getElementById('store-contact').textContent = data.contact_number;
             document.getElementById('store-contact').href = `tel:${data.contact_number}`;
-            document.getElementById('store-since').textContent = data.since;
+            document.getElementById('store-code-display').textContent = data.store_code;
             document.getElementById('store-since-2').textContent = data.since;
             showState(verified);
         } else {

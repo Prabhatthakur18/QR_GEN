@@ -44,6 +44,7 @@ app.get('/api/verify/:store_code', (req, res) => {
         city: store.city,
         state: store.state,
         contact_number: store.contact_number,
+        store_code: store.store_code,
         since: store.since
     });
 });
