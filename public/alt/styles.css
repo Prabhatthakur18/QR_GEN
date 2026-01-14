@@ -57,7 +57,7 @@ body {
 }
 
 .header-logo-img {
-  height: 44px;
+  height: 50px;
   width: auto;
 }
 
@@ -180,6 +180,57 @@ body {
     opacity: 1;
   }
 }
+
+/* AutoCruze Logo Animation */
+.autocruze-loader {
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.autocruze-logo-pulse {
+  width: 200px;
+  height: auto;
+  opacity: 0;
+  animation: logoFadeIn 0.8s ease forwards, logoPulse 2s ease-in-out 0.8s infinite, logoGlow 2s ease-in-out 0.8s infinite;
+  filter: drop-shadow(0 0 10px rgba(255, 204, 0, 0.3));
+}
+
+@keyframes logoFadeIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.8) translateY(20px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes logoPulse {
+
+  0%,
+  100% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.03);
+  }
+}
+
+@keyframes logoGlow {
+
+  0%,
+  100% {
+    filter: drop-shadow(0 0 10px rgba(255, 204, 0, 0.3));
+  }
+
+  50% {
+    filter: drop-shadow(0 0 25px rgba(255, 204, 0, 0.5));
+  }
+}
+
 
 /* Shield Badge */
 .shield-container {

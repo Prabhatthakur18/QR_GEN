@@ -1,31 +1,328 @@
 {
     "stores": [
         {
-            "store_code": "RP-EBO",
-            "store_name": "RP Auto World Demo",
-            "address": "Plot No.13, Near Shantigopal Hospital, Judges Enclave, Ahinsa Khand 2, Indrapuram, Ghaziabad",
-            "city": "Ghaziabad",
-            "state": "Uttar Pradesh",
-            "contact_number": "8800354354",
-            "since": "31-May-2016"
+            "store_code": "FBC026",
+            "store_name": "BHAKTI CARS (CAR AX )",
+            "address": "NEAR RADHA CHOWK,MUMBAI PUNE EXPRESWAY BANER 411045 (M.H)",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "9850848889",
+            "since": "15-Feb-18"
         },
         {
-            "store_code": "AG001",
-            "store_name": "Antigravity Authorized Store - Karol Bagh",
-            "address": "Shop No. 15, Gaffar Market, Karol Bagh",
-            "city": "New Delhi",
-            "state": "Delhi",
-            "contact_number": "9876543210",
-            "since": "2024"
+            "store_code": "FBA027",
+            "store_name": "BHANDARI AUTO",
+            "address": "JM ROAD SHIVAJI NAGAR PUNE, 411005 (M.H)",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "9822097547",
+            "since": "15-Feb-18"
         },
         {
-            "store_code": "AG002",
-            "store_name": "Antigravity Premium Outlet - Bandra",
-            "address": "101, Linking Road, Bandra West",
+            "store_code": "FPM030",
+            "store_name": "POONA MOTORS",
+            "address": "2403,E.H JAFFAR ROAD , EAST STREET ,CAMP BEHIND CORPORATION BANK PUNE-411001",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "9422313480",
+            "since": "15-Mar-18"
+        },
+        {
+            "store_code": "FHM031",
+            "store_name": "HARLEEN MOTOR WORKS",
+            "address": "SHOP NO 1 , NIHAR APARTMENT OPP GREEN LAWNS, SHINGADA TALAV, NASHIK - PIN CODE-422001",
+            "city": "NASHIK",
+            "state": "MAHARASHTRA",
+            "contact_number": "9763726550",
+            "since": "18-Mar-18"
+        },
+        {
+            "store_code": "FLAC32",
+            "store_name": "LAXMI AUTO CENTRE",
+            "address": "SHOP NO 4 AND 5, LAXMAN NIWAS, PLOT NO. 226/227, SION GTB NAGAR, MUMBAI, MAHARASHTRA 400022",
+            "city": "MUMBAI",
+            "state": "MAHARASHTRA",
+            "contact_number": "9870310000",
+            "since": "18-Apr-18"
+        },
+        {
+            "store_code": "FCD037",
+            "store_name": "CAR DYNAMIC",
+            "address": "PHUGE BUILDING, SHOP 8/9/10, NEAR ASHOKAHOTEL, KASARWADI, PUNE 411034",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "9923753703",
+            "since": "14-Jun-18"
+        },
+        {
+            "store_code": "FCA044",
+            "store_name": "CAR ART",
+            "address": "SHOP NO. 1, PREMIER PLAZA, PHASE 3, 'G' WING, BELOW COSMOS BANK, SERVICE ROAD, ANAND NAGAR, CHINCHWAD, PIMPRI- CHINCHWAD, MAHARASHTRA - 411019",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "9371031100",
+            "since": "10-Aug-18"
+        },
+        {
+            "store_code": "FMP045",
+            "store_name": "MUSIC POINT",
+            "address": "SHOP NO.12,SHRI ADINATH COMPLEX, PLOT NO. E-15 , SECTOR 3, BELPADA, KHARGHAR - NAVI MUMBAI MAHARASHTRA 410210",
+            "city": "MUMBAI",
+            "state": "MAHARASHTRA",
+            "contact_number": "9820792485",
+            "since": "17-Aug-18"
+        },
+        {
+            "store_code": "FDC047",
+            "store_name": "DHANRAJ CAR SHRUNGAR",
+            "address": "INJNA COMPLEX DUHLE ROAD NEAR AJANTA CHOWK JALGAON PIN CODE 425001",
+            "city": "JALGAON",
+            "state": "MAHARASHTRA",
+            "contact_number": "9423975077",
+            "since": "09-Sep-18"
+        },
+        {
+            "store_code": "TEMP003",
+            "store_name": "CAR N STYLE",
+            "address": "PLOT NO. 115, GROUND FLOOR, BHAGAT SINGH SOCIETY,GURU HARGOVINDJI MARG, ANDHERI EAST,MUMBAI-400059",
+            "city": "MUMBAI",
+            "state": "MAHARASHTRA",
+            "contact_number": "9920760212",
+            "since": "05-Oct-18"
+        },
+        {
+            "store_code": "FGE053",
+            "store_name": "GANRAJ ENTERPRISES",
+            "address": "DESHMUKH COMPLEX, BAFNA ROAD,NANDED,MAHARASHTRA 431604",
+            "city": "NANDED",
+            "state": "MAHARASHTRA",
+            "contact_number": "9850798597",
+            "since": "10-Oct-18"
+        },
+        {
+            "store_code": "FAC055",
+            "store_name": "ARYA CAR PLUS",
+            "address": "SHOP NO 11, AWARGAONKAR COMPLEX, NEAR RAMGIRI HOTEL, JALNA ROAD, AURANGABAD, MAHARASHTRA 431001",
+            "city": "AURANGABAD",
+            "state": "MAHARASHTRA",
+            "contact_number": "9881308114",
+            "since": "17-Oct-18"
+        },
+        {
+            "store_code": "FVC029",
+            "store_name": "VARAD CAR ACCESSORIES",
+            "address": "SHARAD PRIDE ,SHOP NO: 16,OPP HOTEL NILAM PALACE,DHAVAN PATIL CHAWK,KASABA, BARAMATI,MAHARASHTRA.PIN CODE:-413102",
+            "city": "BARAMATI",
+            "state": "MAHARASHTRA",
+            "contact_number": "9420139139",
+            "since": "06-Apr-19"
+        },
+        {
+            "store_code": "FBT070",
+            "store_name": "BHARAT TYRE(SOUND N WHEELS)",
+            "address": "BHARAT CORNER, DEV'S ARCADE,SAMARTH NAGAR,NASIK-422005",
+            "city": "SAMARTH NAGAR",
+            "state": "MAHARASHTRA",
+            "contact_number": "9822033935",
+            "since": "20-Jun-19"
+        },
+        {
+            "store_code": "FCS082",
+            "store_name": "CAR STUDIO NAGPUR",
+            "address": "239A, BESIDE BABA NANAK HIGH SCHOOL, GANGABAI GHAT ROAD, OLD BAGADGANJ, PIN CODE 440008 NAGPUR",
+            "city": "NAGPUR",
+            "state": "MAHARASHTRA",
+            "contact_number": "9370720710",
+            "since": "20-Dec-19"
+        },
+        {
+            "store_code": "FA1033",
+            "store_name": "A1 MOTORS",
+            "address": "SHOP NO. 17-18, SANGHAVI TOWER, MIRA BHAYANDER ROAD, THANE-401107",
+            "city": "THANE",
+            "state": "MAHARASHTRA",
+            "contact_number": "9820470650",
+            "since": "25-Dec-19"
+        },
+        {
+            "store_code": "FMA086",
+            "store_name": "MAYUR AUTO WORLD",
+            "address": "SHOP NO. F2, ORANGE NX, ORANGE CORNER, NASIK-PUNE HIGHWAY, SANGAMNER-422605",
+            "city": "SANGAMNER",
+            "state": "MAHARASHTRA",
+            "contact_number": "9404984040",
+            "since": "25-Jan-20"
+        },
+        {
+            "store_code": "FMH104",
+            "store_name": "MH 15 CAR DECOR",
+            "address": "NEAR PARTIKSHA HOTEL,OPP. ESIC HOSPITAL,TRAMBAK ROAD,SATPUR, NASHIK 422012",
+            "city": "SATPUR",
+            "state": "MAHARASHTRA",
+            "contact_number": "9823102887",
+            "since": "19-Feb-21"
+        },
+        {
+            "store_code": "FKA128",
+            "store_name": "KIRETH AUTOOZ",
+            "address": "SHOP NO. 17,TWINS LAND CHS, SECTOR-1, NERUL, NAVI MUMBAI- 400706",
+            "city": "MUMBAI",
+            "state": "MAHARASHTRA",
+            "contact_number": "8080465500",
+            "since": "16-Jan-22"
+        },
+        {
+            "store_code": "FBC154",
+            "store_name": "BALAJI CAR ACCESSORIES",
+            "address": "SHOP NO 15-16,SHUBHAM COMPLEX, OPP. OLD OCTROI NAKA,NEAR INDIAN OVERSEAS BANK,CHINCHWAD,PUNE- 411033",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "9881365273",
+            "since": "24-Mar-23"
+        },
+        {
+            "store_code": "FMG167",
+            "store_name": "MY GOVINDA CAR PLAZA",
+            "address": "GROUND FLOOR,SHOP NO 1, VINAYAK CO.OPERATIVE SOCIETY, KALYAN,AMERNATH ROAD,SHANTINAGAR,ULHASNAGAR 421003",
+            "city": "THANE",
+            "state": "MAHARASHTRA",
+            "contact_number": "9822171000",
+            "since": "15-Apr-22"
+        },
+        {
+            "store_code": "FGM168",
+            "store_name": "G M GALAXY CAR DECOR",
+            "address": "SHOP NO A2/A3,VIRAJ CAPITAL, SHINGADA TALAV, OPP. HIRA MOTI CAR GALAXY , NASHIK 422001",
+            "city": "NASIK",
+            "state": "MAHARASHTRA",
+            "contact_number": "88060 37768",
+            "since": "23-Jun-22"
+        },
+        {
+            "store_code": "FHCD196",
+            "store_name": "HARSH CAR DECOR",
+            "address": "11,DEHBHANU COMPLEX NEAR DATTA MANDIR NASHIK PUNE ROAD 422101",
+            "city": "NASHIK",
+            "state": "MAHARASHTRA",
+            "contact_number": "9890167329",
+            "since": "04-Apr-23"
+        },
+        {
+            "store_code": "TEMP001",
+            "store_name": "NEW BALAJI CAR DÉCOR",
+            "address": "SR. NO. 43 PATHARE MALA,NEAR DARGH,KHARIDI BYPASS CHOWK NAGAR ROAD,PUNE-411014",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "8766911381",
+            "since": "07-Apr-23"
+        },
+        {
+            "store_code": "FAE048",
+            "store_name": "AUTOMOTIVE ENTERPRISES",
+            "address": "SHOP NO 1,SAI SANKUL,KOLHAR, GHOTI ROAD, OPP. BAJAJ SHOWROOM, AKOLE, AHMEDNAGAR- 422601",
+            "city": "AHMEDNAGAR",
+            "state": "MAHARASHTRA",
+            "contact_number": "74990 08265",
+            "since": "15-Aug-22"
+        },
+        {
+            "store_code": "FSSD204",
+            "store_name": "SSD CAR",
+            "address": "ESTEEM TOWER, KHARWADI, BOMBAY PUNE ROAD, PIMPARI, PUNE 411018",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "9823399304",
+            "since": "01-Apr-23"
+        },
+        {
+            "store_code": "TEMP002",
+            "store_name": "CAR CRAZE ACCESSORIES",
+            "address": "SHOP NO B-LA FOYER BUILDING, GROUND FLOOR, OPP BOSTON WORLD SCHOOL HILLS & DATES, NIBM ROAD, UNDARI, PUNE, MAHARASHTRA 411060",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "7499865969",
+            "since": "04-Dec-23"
+        },
+        {
+            "store_code": "FKMC297",
+            "store_name": "KALYAN MOTOR CAR ACCESSORIES",
+            "address": "SR NO 132, SHOP NO 10, SHRIRAM CORNER DALVIWADI, DSK ROAD, DHAYARI, PUNE-411048",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "7276482400",
+            "since": "16-Mar-24"
+        },
+        {
+            "store_code": "FSSDS298",
+            "store_name": "SSD CAR SHRUNGAR",
+            "address": "NEW MDR MALL, GAJANAN MANDIR SQUARE, NAGPUR ROAD, CHANDRAPUR-442401",
+            "city": "CHADRAPUR",
+            "state": "MAHARASHTRA",
+            "contact_number": "9403936900",
+            "since": "24-Aug-23"
+        },
+        {
+            "store_code": "FPG299",
+            "store_name": "POLY GAURD",
+            "address": "PLOT NO P-119 CENTRAL MIDC ROAD OPP PATNI TOYOTA BE SIDE WADI HINGNA TOLL TAX WADI NAGPUR 440023",
+            "city": "NAGPUR",
+            "state": "MAHARASHTRA",
+            "contact_number": "7304903730",
+            "since": "N/A"
+        },
+        {
+            "store_code": "FCS334",
+            "store_name": "CAR SAJAWAT - AHAMADNAGAR",
+            "address": "Shop No: 3, Amith Apartment, Savedi Rd, opposite Oberoi Hotel, Don Bosco Area, Ahilyanagar, Maharashtra 414003.",
+            "city": "AHAMADNAGAR",
+            "state": "MAHARASHTRA",
+            "contact_number": "9665297229",
+            "since": "10-May-22"
+        },
+        {
+            "store_code": "FJGCA347",
+            "store_name": "JAY GANESH CAR ACCESSORIES",
+            "address": "SHOP NO.1, G/MILKAT NO. 1/0542, KAVADIPAT, Pune Solapur Road, LONI KALBHOR TOLL PLAZA, Pune, 412201",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "9981397676, 9823387272",
+            "since": "02-Oct-25"
+        },
+        {
+            "store_code": "FAH355",
+            "store_name": "AUDIO HUB",
+            "address": "Shop No. A/689, Opposite Sai Baba Mandir, Kalyan - Shilphata Road, Near Royal Wine Shop, Sonar pada, Dombivli (E) - 421201",
+            "city": "N/A",
+            "state": "MAHARASHTRA",
+            "contact_number": "9112330055",
+            "since": "01-Oct-25"
+        },
+        {
+            "store_code": "FACA356",
+            "store_name": "AUTOLUX CAR ACCESSORIES",
+            "address": "Shop No. 112, Ganga Savera Soceity, opp. Mhatma Phule Sanskrutik Bhavan, Manwadi, Pune - 40",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "7020161600",
+            "since": "15-Oct-25"
+        },
+        {
+            "store_code": "FPAC363",
+            "store_name": "Pristine auto care",
+            "address": "SHOP NO 07, TIMBER MARKET, Chhatrapati Shivaji Rd, near MURLIDHAR SWEETS, Krishna Colony, Dahisar East, Mumbai, Maharashtra 400068",
             "city": "Mumbai",
-            "state": "Maharashtra",
-            "contact_number": "9123456789",
-            "since": "2024"
+            "state": "MAHARASHTRA",
+            "contact_number": "8868869449",
+            "since": "03-Aug-25"
+        },
+        {
+            "store_code": "FPAS365",
+            "store_name": "PROAUTO SOLUTIONS",
+            "address": "GROUND FLOOR, GAT NO. 187, ADHIRAJ HEIGHTS, PAUD ROAD, OPP. GARWA HOTEL, MULSHI, Bhukum, Pune, Maharashtra, 412115",
+            "city": "PUNE",
+            "state": "MAHARASHTRA",
+            "contact_number": "9143914242",
+            "since": "13-Apr-25"
         }
     ]
 }

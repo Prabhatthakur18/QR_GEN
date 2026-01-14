@@ -32,7 +32,7 @@ app.get('/api/verify/:store_code', (req, res) => {
         // Store code not in our database = NOT an authorized franchise
         return res.status(404).json({
             verified: false,
-            message: 'This store is NOT an authorized Autoform India Pvt Ltd franchise'
+            message: 'This store is NOT an authorized Autoform India/AutoCruze franchise'
         });
     }
 
@@ -53,6 +53,12 @@ app.get('/api/verify/:store_code', (req, res) => {
 app.get('/verify/:store_code', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
+
+// Serve ALTERNATE verification page
+app.get('/alt/verify/:store_code', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'alt', 'index.html'));
+});
+
 
 // Health check
 app.get('/api/health', (req, res) => {

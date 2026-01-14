@@ -1,6 +1,10 @@
 {
     "rewrites": [
         {
+            "source": "/alt/verify/:path*",
+            "destination": "/alt/index.html"
+        },
+        {
             "source": "/verify/:path*",
             "destination": "/index.html"
         }

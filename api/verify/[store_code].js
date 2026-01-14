@@ -32,13 +32,14 @@ export default function handler(req, res) {
         if (!store) {
             return res.status(404).json({
                 verified: false,
-                message: 'This store is NOT an authorized Autoform India Pvt Ltd franchise'
+                message: 'This store is NOT an authorized Autoform India/AutoCruze franchise'
             });
         }
 
         return res.status(200).json({
             verified: true,
             store_name: store.store_name,
+            store_code: store.store_code,
             address: store.address,
             city: store.city,
             state: store.state,
