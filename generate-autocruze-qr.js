@@ -5,7 +5,9 @@ const path = require('path');
 // AutoCruze stores that use the alternate template
 const AUTOCRUZE_STORES = [
     { code: 'FGM168', name: 'G M GALAXY CAR DECOR' },
-    { code: 'FSSD204', name: 'SSD CAR' }
+    { code: 'FSSD204', name: 'SSD CAR' },
+    { code: 'FMA086', name: 'MAYUR AUTO WORLD' },
+    { code: 'FMG167', name: 'MY GOVINDA CAR PLAZA' }
 ];
 
 // Base URL for Vercel deployment
