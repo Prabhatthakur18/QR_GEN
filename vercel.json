@@ -1,4 +1,11 @@
 {
+    "redirects": [
+        {
+            "source": "/verify/FGM168",
+            "destination": "https://qr-gen-autocruze.vercel.app/alt/verify/FGM168",
+            "permanent": false
+        }
+    ],
     "rewrites": [
         {
             "source": "/alt/verify/:path*",
