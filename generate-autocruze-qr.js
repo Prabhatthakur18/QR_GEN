@@ -11,7 +11,7 @@ const AUTOCRUZE_STORES = [
 ];
 
 // Base URL for Vercel deployment
-const BASE_URL = process.env.BASE_URL || 'https://qr-gen-autoform.vercel.app';
+const BASE_URL = process.env.BASE_URL || 'https://qr-gen-autocruze.vercel.app';
 
 // Output directory
 const OUTPUT_DIR = path.join(__dirname, 'QR_Codes_AutoCruze');
@@ -22,7 +22,7 @@ if (!fs.existsSync(OUTPUT_DIR)) {
 }
 
 async function generateQR(store) {
-    // AutoCruze stores use the /alt/ template
+    // AutoCruze stores use the /alt/ template (Explicitly requested to keep /alt/)
     const url = `${BASE_URL}/alt/verify/${store.code}`;
     const outputPath = path.join(OUTPUT_DIR, `${store.name}-${store.code}.png`);
 

@@ -49,14 +49,19 @@ app.get('/api/verify/:store_code', (req, res) => {
     });
 });
 
-// Serve verification page
-app.get('/verify/:store_code', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'index.html'));
-});
+// Serve verification page based on domain or path
+app.get(['/verify/:store_code', '/alt/verify/:store_code'], (req, res) => {
+    const storeCode = req.params.store_code;
 
-// Serve ALTERNATE verification page
-app.get('/alt/verify/:store_code', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'alt', 'index.html'));
+    // Check if domain is 'autocruze' OR path starts with '/alt/'
+    const isAutoCruzeDomain = req.hostname.includes('autocruze');
+    const isAltPath = req.path.startsWith('/alt/');
+
+    if (isAutoCruzeDomain || isAltPath) {
+        res.sendFile(path.join(__dirname, 'public', 'alt', 'index.html'));
+    } else {
+        res.sendFile(path.join(__dirname, 'public', 'index.html'));
+    }
 });
 
 
