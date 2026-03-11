@@ -2,7 +2,7 @@
     "stores": [
         {
             "store_code": "FBC026",
-            "store_name": "BHAKTI CARS (CAR AX )",
+            "store_name": "BHAKTI CARS (CAR AX)",
             "address": "NEAR RADHA CHOWK,MUMBAI PUNE EXPRESSWAY BANER 411045 (M.H)",
             "city": "PUNE",
             "state": "MAHARASHTRA",
@@ -323,6 +323,681 @@
             "state": "MAHARASHTRA",
             "contact_number": "9143914242",
             "since": "13-Apr-25"
+        },
+        {
+            "store_code": "FCC079",
+            "store_name": "CLASSIC CAR SHOPPE",
+            "address": "RAJENDRA COMPLEX,PLOT NO-140/2004,NEAR KALINGA TYRE,KHANDAGIRI CHHAK,JAGAMARA,BHUBANESWAR,KHORDHA,ODISHA,751030",
+            "city": "BHUBANESWAR",
+            "state": "ODISHA",
+            "contact_number": "9090090906",
+            "since": "12-Nov-19"
+        },
+        {
+            "store_code": "FCB103",
+            "store_name": "CAR BOX",
+            "address": "PLOT NO. 435/1866 MOUZA NEAR SKY AUTOMOBILE,KIIT SQUARE,PATIA, BHUBANESWAR-751024",
+            "city": "BHUBANESWAR",
+            "state": "ODISHA",
+            "contact_number": "9583029681",
+            "since": "20-Jan-21"
+        },
+        {
+            "store_code": "FSC125",
+            "store_name": "SASWAT CAR CARE",
+            "address": "AT- SANKARA. MAIN ROADN EAR NICE COMPUTER CENTRE SUNDARGARH ODISHA PIN CODE 770020",
+            "city": "SUNDARGARH",
+            "state": "ODISHA",
+            "contact_number": "8763024876",
+            "since": "04-Jan-22"
+        },
+        {
+            "store_code": "FLC126",
+            "store_name": "LUXURY CAR DECOR",
+            "address": "GOPALPALI CHOWK,OPP. RENAULT CAR SHOWROOM, REMED, SAMBALPUR - 768006",
+            "city": "SAMBALPUR",
+            "state": "ODISHA",
+            "contact_number": "9337596885, 9437056401",
+            "since": "04-Jan-22"
+        },
+        {
+            "store_code": "FJKC127",
+            "store_name": "JK CREATIVE SHOP",
+            "address": "RCITI CAMPUS, SWARUPVILLA MANCHABANDHA, NH-18, PO-BUDHIKHAMARI, PS-BARIPADA SADAR , DIST- MAYURBHANJ, ODISHA. PIN - 757029",
+            "city": "BARIPADA",
+            "state": "ODISHA",
+            "contact_number": "9778777777",
+            "since": "04-Jan-22"
+        },
+        {
+            "store_code": "FARC326",
+            "store_name": "AR CREATIVE SHOPPE",
+            "address": "SANTARA, PO-DALA, NEAR MAHAVIR HIGH SCHOOL, JAJPUR, PIN-755019",
+            "city": "JAJPUR",
+            "state": "ODISHA",
+            "contact_number": "9937692567",
+            "since": "08-Jul-15"
+        },
+        {
+            "store_code": "FCBK374",
+            "store_name": "CAR BOX-KHORDHA",
+            "address": "Plot no. 585, SIKHARCHANDI NAGAR, KIIT Campus Road, Ekarma Ucha Sikhya Niketan,Patia, Bhubaneswar, Khordha, Odisha, 751024",
+            "city": "BHUBANESWAR",
+            "state": "ODISHA",
+            "contact_number": "9583029681",
+            "since": "19-Feb-21"
+        },
+        {
+            "store_code": "FAX033",
+            "store_name": "ANDHRA ACCESSORIES",
+            "address": "D.NO. 10-50-10, A-3, JYOTI ENCLAVE, WALTAIR MAIN RD, BESIDE LIONS CLUB, RAM NAGAR, VISAKHAPATNAM, PIN CODE-530002 ANDHRA PRADESH",
+            "city": "VISAKHAPATNAM",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "9966202084/7337214908",
+            "since": "21-Apr-18"
+        },
+        {
+            "store_code": "FJJK040",
+            "store_name": "JUBILEE JUNCTION -",
+            "address": "110, 1, 11/7/A, GACHIBOWLI - MIYAPUR RD, RAGHAVENDRA COLONY, KONDAPUR, HYDERABAD, TELANGANA 500084",
+            "city": "HYDERABAD - KONDAPUR",
+            "state": "TELANGANA",
+            "contact_number": "9885323333",
+            "since": "15-Jul-18"
+        },
+        {
+            "store_code": "FJJ0041",
+            "store_name": "JUBILEE JUNCTION -",
+            "address": "1-8-32/69/1 NEAR KIMS HOSPITAL ,MINISTER ROAD, SECUNDRABAD 500003",
+            "city": "SECUNDRABAD",
+            "state": "TELANGANA",
+            "contact_number": "9885323333",
+            "since": "15-Jul-18"
+        },
+        {
+            "store_code": "FID054",
+            "store_name": "INDIAN DECARS",
+            "address": "Road No-10, Ravi Colony, Serilingampally, Hyderabad Rangareddy, Telengana , 500084",
+            "city": "GACHIBOWLI",
+            "state": "TELANGANA",
+            "contact_number": "9848036110",
+            "since": "15-Oct-18"
+        },
+        {
+            "store_code": "FCC061",
+            "store_name": "CRAZY CARS",
+            "address": "DNO.26-3-2054-1,SAVITHRI NAGAR,NEAR MUTHOOT FINANCE, VEDAYAPALEM CENTRE,NELLORE 524004 (AP)",
+            "city": "NELLORE",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "9885500006",
+            "since": "16-Mar-19"
+        },
+        {
+            "store_code": "FSC073",
+            "store_name": "SANGHVI CAR SHOPPEE",
+            "address": "40-1-129A, BESIDE HDFC BANK, BENZ CIRCLE, M.G.ROAD, VIJAYAWADA, ANDHRA PRADESH 520010",
+            "city": "VIJAYAWADA",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "9666999693/9640093884",
+            "since": "29-Sep-19"
+        },
+        {
+            "store_code": "FCI094",
+            "store_name": "CAR IN",
+            "address": "3-171/3,AUTO NAGAR,ELURU ROAD,JANGAREDDYGUDEM ,WEST GODAVARI, ANDHRA PRADESH 534447",
+            "city": "GODAVARI",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "9912342992",
+            "since": "01-Jun-20"
+        },
+        {
+            "store_code": "FCH099",
+            "store_name": "CAR HUB",
+            "address": "GROUND FLOOR, 7-184, SHOP NO 14, BABU COMPLEX, OPP CMR, GAJUWAKA, VISAKHAPATNAM, ANDHRA PRADESH 530026",
+            "city": "VISAKHAPATNAM",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "9963335215/9491367444",
+            "since": "01-Jan-21"
+        },
+        {
+            "store_code": "FRK107",
+            "store_name": "R K CARZ SPA",
+            "address": "#51/15-A-18-10-A, OPP. INTERNATIONAL FUNCTION HALL, AUTONAGAR, KURNOOL,OPP. REYNOLD SHOOW ROOM-518003",
+            "city": "KURNOOL",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "7989972362",
+            "since": "24-Jun-21"
+        },
+        {
+            "store_code": "FNC130",
+            "store_name": "NAIK CAR DECOR",
+            "address": "H. NO: 15-2-20/21,OPP: GAURDIAN HOSPITAL, MULUGU ROAD, WARANGAL.506002",
+            "city": "WARANGAL",
+            "state": "TELANGANA",
+            "contact_number": "9347676143",
+            "since": "07-Feb-22"
+        },
+        {
+            "store_code": "FCC131",
+            "store_name": "CAR CRAFTS DE DECORS",
+            "address": "19-11-19,NEAR RAMANUJAM CIRCLE,OPP. ANDHRA BANK,TIRUCHANUR ROAD, TIRUPATI, ANDHRA PRADESH PIN CODE 517501",
+            "city": "TIRUPATI",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "9885469615",
+            "since": "11-Feb-22"
+        },
+        {
+            "store_code": "FID153",
+            "store_name": "INDIAN CAR DÉCOR",
+            "address": "PLOT NO 43 AND 54,SHIVA GANGA COLONY,LB NAGAR, RANGAREDDY, HYDERABAD-500074",
+            "city": "HYDERABAD",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "9949990999",
+            "since": "22-Oct-18"
+        },
+        {
+            "store_code": "FMM158",
+            "store_name": "MOTOMINDS CAR DÉCOR",
+            "address": "PLOT NO 42 KAVURI HILLS,BESDIES MADHAPUR POLICE STATION 500033",
+            "city": "MADHAPUR",
+            "state": "TELANGANA",
+            "contact_number": "7799995522",
+            "since": "02-Jun-22"
+        },
+        {
+            "store_code": "FSTG188",
+            "store_name": "SAI TOP GEAR",
+            "address": "RD NO 15, 1 PUPPALAGUDA,ALKAPOOR RD,AMNIKONDA JAGIR,TELANGANA 500089",
+            "city": "TELANGANA",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "9010059010",
+            "since": "24-Feb-23"
+        },
+        {
+            "store_code": "FACA269",
+            "store_name": "AUTOMOTIVE CAR ACCESSORIES",
+            "address": "MAMATHA HOSPITAL ROAD,BESIDE NEW TATA MOTORSKHAMMAM PIN :- 507002",
+            "city": "KHAMMAM",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "9642544515, 95816 66530",
+            "since": "24-Feb-24"
+        },
+        {
+            "store_code": "FSE293",
+            "store_name": "SWASTI ENTERPRISES",
+            "address": "Shakti car décor Plot no -1 Beside :- Bajaj electronics  Ramnagar Adilabad.504001",
+            "city": "ADILABAD",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "9642951111",
+            "since": "17-Apr-24"
+        },
+        {
+            "store_code": "FAW288",
+            "store_name": "ASHOKA WHEELS PLUS",
+            "address": "Old Mumbai Hwy,  near Lumbini Avenue , Diamond Hills Gachibowli, Hyderabad , Telegana, 500032",
+            "city": "GACHIBLOWLI, HYDERABAD",
+            "state": "TELANGANA",
+            "contact_number": "8886788866",
+            "since": "30-11-2023"
+        },
+        {
+            "store_code": "FBN024",
+            "store_name": "B N AUTO",
+            "address": "SHOP NO 6,CIVIL LINES,OPP PREM MANDIR, ROORKEE 247667 (UTTRAKHAND)",
+            "city": "ROORKEE",
+            "state": "UTTARAKHAND",
+            "contact_number": "9990239027",
+            "since": "14-Jan-18"
+        },
+        {
+            "store_code": "FLCD38",
+            "store_name": "LAXMI CAR DREAMZ",
+            "address": "2 JAIN MARKET RAILWAY ROAD RISHIKESH PIN CODE-249201",
+            "city": "RISHIKESH",
+            "state": "UTTARAKHAND",
+            "contact_number": "9837119106",
+            "since": "23-Jun-22"
+        },
+        {
+            "store_code": "FRCA56",
+            "store_name": "RAO CAR ACCESSORIES",
+            "address": "418 BALLUPUR ROAD, NEAR BALLUPUR CHOWK , DEHRADUN PIN CODE 248001",
+            "city": "DEHRADUN",
+            "state": "UTTARAKHAND",
+            "contact_number": "9412047654",
+            "since": "04-Nov-18"
+        },
+        {
+            "store_code": "FNMA8",
+            "store_name": "NEW MS AUTO",
+            "address": "ARYA NAGAR JWALAPUR HARIDWAR PIN CODE 249404",
+            "city": "HARIDWAR",
+            "state": "UTTARAKHAND",
+            "contact_number": "9537658243",
+            "since": "24-Dec-18"
+        },
+        {
+            "store_code": "FWE091",
+            "store_name": "WE WRAP",
+            "address": "SHOP NO.2, SHAMAKSHI CREST, NEAR HOTEL CLARK'S INN,OPP.HONDA SHOWROOM, RAMPUR RAOD,HALDWANI - 263139",
+            "city": "HALDWANI",
+            "state": "UTTARAKHAND",
+            "contact_number": "8449595953 /9045783236",
+            "since": "01-Mar-20"
+        },
+        {
+            "store_code": "FUVC218",
+            "store_name": "UV CORPORATION",
+            "address": "2 E.C ROAD ,2/2 RAJEEV GNDHI MARG-1 DEHRADUN UTTARAKHAND 248001",
+            "city": "DEHRADUN",
+            "state": "UTTARAKHAND",
+            "contact_number": "9599172105",
+            "since": "04-Sep-22"
+        },
+        {
+            "store_code": "FSCV276",
+            "store_name": "SONU CAR VATIKA",
+            "address": "NAGAR PALIKA MARKET,KASHIPUR BYPASS ROADRPUR ,(U.S. NAGAR) UTTRAKHAND",
+            "city": "RUDRAPUR",
+            "state": "UTTARAKHAND",
+            "contact_number": "9837306555",
+            "since": "25-Sep-24"
+        },
+        {
+            "store_code": "FAUS280",
+            "store_name": "ANAND AUTO SPA",
+            "address": "DEVI BAI ROOP CHAND MEMORIAL COMPLEX ,RAMANAGAR,ROAD KASHIPUR ,UTTRAKHAND, 244713",
+            "city": "KASHIPUR",
+            "state": "UTTARAKHAND",
+            "contact_number": "9761199998",
+            "since": "01-Nov-24"
+        },
+        {
+            "store_code": "FTC361",
+            "store_name": "TALWAR CAR SHRINGAR",
+            "address": "3,SANDHU MARKET,CHAKARPUR ROAD,BAZPUR PIN CODE 262401",
+            "city": "BAZPUR",
+            "state": "UTTARAKHAND",
+            "contact_number": "9758622222",
+            "since": "17-Oct-22"
+        },
+        {
+            "store_code": "FCBH281",
+            "store_name": "CAR BEAUTY",
+            "address": "NR,SACHIN HYUNDAI SHOWROOM,DEWALCHOUR,RAMPUR ROAD,HALDWANI,UTTRAKHAND 263139",
+            "city": "HALDWANI",
+            "state": "UTTARAKHAND",
+            "contact_number": "7617740009",
+            "since": "01-Oct-23"
+        },
+        {
+            "store_code": "FKCD224",
+            "store_name": "KIRPAL CAR DECORS",
+            "address": "3RD LINE SAMBASIVAPAT,GUNTUR 522001",
+            "city": "GUNTUR",
+            "state": "ANDHRA PRADESH",
+            "contact_number": "8639327821",
+            "since": "19-May-23"
+        },
+        {
+            "store_code": "FRS059",
+            "store_name": "ROAD STAR",
+            "address": "12 NASKAR PARALANE DHAKURIYA OPP SPICE OF JOY KOLKATA,WEST BENGAL 700031",
+            "city": "KOLKATA",
+            "state": "WEST BENGAL",
+            "contact_number": "9674407959",
+            "since": "13-Feb-19"
+        },
+        {
+            "store_code": "FRM071",
+            "store_name": "ROYAL MOTORS",
+            "address": "64, SEVOKE RD, BESIDE LIC BUILDING, WARD 10, NEAR PANI TANKI MORE (CLOCK TOWER), SILIGURI, WEST BENGAL 734001",
+            "city": "SILIGURI",
+            "state": "WEST BENGAL",
+            "contact_number": "9932331850/9733751000",
+            "since": "04-Jul-19"
+        },
+        {
+            "store_code": "FCC078",
+            "store_name": "CAR CORALS",
+            "address": "G.T.ROAD,KESHABGANJ CHATTI,BARDHAMAN-713104",
+            "city": "BARDHAMAN",
+            "state": "WEST BENGAL",
+            "contact_number": "9732270404, 9734752040",
+            "since": "07-Nov-19"
+        },
+        {
+            "store_code": "FAS087",
+            "store_name": "AUTO SPEED CAR DÉCOR",
+            "address": "6,DR. SATYANANDA ROY ROAD,NEAR MENOKA CINEMA HALL, KOLKATA-700029",
+            "city": "KOLKATA",
+            "state": "WEST BENGAL",
+            "contact_number": "9830869148",
+            "since": "29-Jan-20"
+        },
+        {
+            "store_code": "FSN100",
+            "store_name": "SRI NIRMAL SAI AUTO ZONE",
+            "address": "1(1) ,MADHU PANDIT ROAD,B.T ROAD , PO TALPUKUR,PS-TITAGARH , BARRACKPORE,\n(BESIDE BARRACKPORE MUNICIPALITY),KOLKATA PIN CODE -700123",
+            "city": "KOLKATA",
+            "state": "WEST BENGAL",
+            "contact_number": "9831501815",
+            "since": "15-Jan-21"
+        },
+        {
+            "store_code": "FEC109",
+            "store_name": "EASTER CAR DECORE",
+            "address": "157 A,LENIN SARANI,NEAR KAMLAYA CENTRE KOLKATA 700013,",
+            "city": "KOLKATA",
+            "state": "WEST BENGAL",
+            "contact_number": "8910608554, 7278078972",
+            "since": "12-Aug-21"
+        },
+        {
+            "store_code": "FEM110",
+            "store_name": "EASTER MOTORS",
+            "address": "17 B,BT ROAD,RATHTALA,BELGHORIA,NEAR KAMARHATI MUNICIPALITY KOLKATA 700056,",
+            "city": "KOLKATA",
+            "state": "WEST BENGAL",
+            "contact_number": "7278078972, 8617273964",
+            "since": "12-Aug-21"
+        },
+        {
+            "store_code": "FPAE202",
+            "store_name": "PARK AUTO EMPORIUM",
+            "address": "N/49 JESSORE ROAD BANAMALIPUR BARASAT NORTH TWENTY FOUR PARGANAS WEST BENGAL-700124",
+            "city": "KOLKATA",
+            "state": "WEST BENGAL",
+            "contact_number": "8276964313",
+            "since": "01-May-23"
+        },
+        {
+            "store_code": "FUC331",
+            "store_name": "UNIQUE CAR",
+            "address": "360 EAST COMPLEX NEAR GANDHI MAIDAN CHECKPOST,SEVOKE ROAD  SILIGURI.",
+            "city": "SILIGURI",
+            "state": "WEST BENGAL",
+            "contact_number": "9832333303, 9932219077",
+            "since": "13-Jul-25"
+        },
+        {
+            "store_code": "FI9128",
+            "store_name": "N S AUTO",
+            "address": "CB-58,BLOCK- CB SECTOR 1, SALT LAKE CITY KOLKATA-700068",
+            "city": "KOLKATA",
+            "state": "WEST BENGAL",
+            "contact_number": "9051023737",
+            "since": "05-Oct-12"
+        },
+        {
+            "store_code": "FRG001",
+            "store_name": "RG AUTOSTYLE",
+            "address": "PLOT N.410 GROUND FLOOR SHOP NUMBER 3 SHAKTI KHAND 4 INDRAPURAM GHAZIABAD 201014",
+            "city": "INDIRAPURAM",
+            "state": "UTTAR PRADESH",
+            "contact_number": "8800354354",
+            "since": "31-May-16"
+        },
+        {
+            "store_code": "FCP005",
+            "store_name": "CAR PLUS",
+            "address": "B- 219,  Opp AXIS Bank , CENTRAL AUTO MARKET, SEC-16, NOIDA-201301",
+            "city": "NOIDA",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9810046085",
+            "since": "10-Nov-04"
+        },
+        {
+            "store_code": "FSA007",
+            "store_name": "SIGMA AUTOMOBILE",
+            "address": "C 368 ARAVALI MARG, INDRA NAGAR, LUCKNOW(UP) 226016",
+            "city": "LUCKNOW",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9335533335",
+            "since": "05-Mar-17"
+        },
+        {
+            "store_code": "FCS025",
+            "store_name": "CAR SAZ",
+            "address": "SWAROOP NAGAR, MADHURAJ STREET KANPUR2( UP) 208002",
+            "city": "KANPUR",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9839224488/9140224438",
+            "since": "05-Feb-18"
+        },
+        {
+            "store_code": "FGO034",
+            "store_name": "GOFIDA",
+            "address": "S 17/216 AB NEAR NADESAR NAGAR NIGAM, RAZA BAZAR, NADESAR, VARANASI 221001 U.P",
+            "city": "VARANASI",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9935154444",
+            "since": "13-May-18"
+        },
+        {
+            "store_code": "FSC042",
+            "store_name": "SAI CAR EMPORIUM",
+            "address": "SHOP NO. 4B,5,6,PLOT NO. 80, OPPOSITE SHREE CINEMA,BYPASS ROAD , AGRA 282005 (U.P)",
+            "city": "AGRA",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9897000018",
+            "since": "23-Jul-18"
+        },
+        {
+            "store_code": "FPM067",
+            "store_name": "PRAKASH MOTORS",
+            "address": "PRAKASH MOTORS SIPRI ROAD CIVIL LINES JHANSI 284002",
+            "city": "JHANSI",
+            "state": "UTTAR PRADESH",
+            "contact_number": "6307015981",
+            "since": "09-Apr-19"
+        },
+        {
+            "store_code": "FAA081",
+            "store_name": "ANMOL AUTOS GHAZIABAD",
+            "address": "3RD H 199, RAKESH MARG,NEHRU NAGAR, GHAZIABAD-201001",
+            "city": "GHAZIABAD",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9810510554",
+            "since": "15-Dec-19"
+        },
+        {
+            "store_code": "FSB095",
+            "store_name": "SHRI BALAJI CAR CARE",
+            "address": "NEAR CHAND PETROL PUMP SIDHUAPAAR BARHALGANJ-GORAKHPUR PIN  273402",
+            "city": "BARHALGANJ",
+            "state": "UTTAR PRADESH",
+            "contact_number": "8738000066",
+            "since": "22-Sep-20"
+        },
+        {
+            "store_code": "FCHM106",
+            "store_name": "CAR HOUSE",
+            "address": "CAR HOUSE SHREE JI COMPLEX JUNCTION ROAD MATHURA - 281001",
+            "city": "MATHURA",
+            "state": "UTTAR PRADESH",
+            "contact_number": "987312037",
+            "since": "01-May-21"
+        },
+        {
+            "store_code": "FMV111",
+            "store_name": "MAA VINDHYAWASINI",
+            "address": "BAGHA BABA MANDIR NEAR SMARTWHEELS SHOWROOM GIDA,GORAKHPUR, UTTAR PRADESH, 273209",
+            "city": "GORAKHPUR",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9696009670/9956558382",
+            "since": "12-Aug-21"
+        },
+        {
+            "store_code": "FAS135",
+            "store_name": "ACCESSORIES STUDIO",
+            "address": "A-172,RAJENDRA NAGAR ON BANKEBIHARI TEMPLE ROAD,BAREILLY . 243122",
+            "city": "BARELI",
+            "state": "UTTAR PRADESH",
+            "contact_number": "91 97195 77775",
+            "since": "01-Nov-21"
+        },
+        {
+            "store_code": "FCD149",
+            "store_name": "CAR DEC",
+            "address": "PHOOL BAGH COLONY GALI NUMBER 11 NALE WALI ROAD MEERUT PIN CODE 250003",
+            "city": "MEERUT",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9837087891",
+            "since": "04-Aug-22"
+        },
+        {
+            "store_code": "FCM155",
+            "store_name": "CAR MAHAL",
+            "address": "111/316,HARSH NAGAR NEAR GREEN PETAL KANPUR UTTARPARDESH 208012",
+            "city": "KANPUR",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9793313131",
+            "since": "01-Sep-22"
+        },
+        {
+            "store_code": "FET157",
+            "store_name": "EXPERT TRADING CO",
+            "address": "111/94 ASHOK NAGAR NEAR BECHWALA MANDIR PIN CODE 208012",
+            "city": "KANPUR",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9839091476 &  9235929292",
+            "since": "13-Oct-22"
+        },
+        {
+            "store_code": "FPAA165",
+            "store_name": "PUNJAB AUTO ACCESSORIES",
+            "address": "48,HELMS BUILDING VALMIKI MARG LALBAGH , NEAR FIRE STATION LUCKNOW, UTTAR PRADESH PIN CODE 226001",
+            "city": "LUCKNOW",
+            "state": "UTTAR PRADESH",
+            "contact_number": "8601226222, 9198102425, 9935477777 / 9839477777",
+            "since": "15-Dec-22"
+        },
+        {
+            "store_code": "FOO7166",
+            "store_name": "007 CAR CARE",
+            "address": "NEAR HONDA CHOWK, EBONY ESTATE, PHI IV, GREATER NOIDA, UTTAR PRADESH 201308",
+            "city": "GREATER NOIDA",
+            "state": "UTTAR PRADESH",
+            "contact_number": "98991 36852",
+            "since": "15-Jan-23"
+        },
+        {
+            "store_code": "FNC171",
+            "store_name": "NEW CAR SHRINGAR",
+            "address": "BEHIND PETROL PUCIVIL LINES MP GANDHI NAGAR RAIBAREILLY UTTAR PARDESH 229001",
+            "city": "RAI BAREILLY",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9889710011",
+            "since": "26-Feb-23"
+        },
+        {
+            "store_code": "FKV314",
+            "store_name": "CAR VATIKA",
+            "address": "CAR VATIKA ,OPP - TANISHIQ SHOW ROOM ,POST OFFICE- SADAR,NARAULI,AZAMGARH U-P,PIN CODE- 276001",
+            "city": "AZAMGARH",
+            "state": "UTTAR PRADESH",
+            "contact_number": "94152 71971 & 9569902094",
+            "since": "07-Oct-24"
+        },
+        {
+            "store_code": "FCH318",
+            "store_name": "CAR HUB",
+            "address": "127/992,W-1 SAKET NAGER,KANPUR-208014",
+            "city": "KANPUR",
+            "state": "UTTAR PRADESH",
+            "contact_number": "96284 65050",
+            "since": "22-Jan-23"
+        },
+        {
+            "store_code": "FCS319",
+            "store_name": "CAR SHRINGAR",
+            "address": "13,14,EXHIBITION GROUND ,OPP TAHANA BANNA DEVI,G.T. RAOD ALIGARH 202001",
+            "city": "ALIGARH",
+            "state": "UTTAR PRADESH",
+            "contact_number": "863 040 0505",
+            "since": "01-01-2009"
+        },
+        {
+            "store_code": "FCF320",
+            "store_name": "CAR FASHION POINT",
+            "address": "CAR FASHION POINT MUSLIM INTER COLLEGE MARKET RAJE BABU ROAD BULANDSHAHR UP 203001",
+            "city": "BULANDSHAR",
+            "state": "UTTAR PRADESH",
+            "contact_number": "98371 61321",
+            "since": "11-Sep-23"
+        },
+        {
+            "store_code": "FKS321",
+            "store_name": "KAR STYLO",
+            "address": "B-93 ,CENTRAL AUTO MARKET,  SEC-16,   NOIDA 201301",
+            "city": "NOIDA",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9999567891 &  9999567890",
+            "since": "15-Oct-07"
+        },
+        {
+            "store_code": "FCW322",
+            "store_name": "CAR WORX",
+            "address": "PLOT NO. 1198, SECTOR 5, VASUNDHARA, GHAZIABAD, UTTAR PRADESH 201014",
+            "city": "VASUNDHARA",
+            "state": "UTTAR PRADESH",
+            "contact_number": "95990 53118/7303053118",
+            "since": "15-May-24"
+        },
+        {
+            "store_code": "FA2ZN364",
+            "store_name": "A TO Z MOTOR",
+            "address": "JATAV CAR MARKET ,SECTOR 93 ,NOIDA NEAR POCKET 6.",
+            "city": "NOIDA",
+            "state": "UTTAR PARDESH",
+            "contact_number": "8585939355",
+            "since": "01-01-2026"
+        },
+        {
+            "store_code": "FDC156",
+            "store_name": "DIAMOND CAR ACCESSORIES",
+            "address": "NADESAR, S 17/319-1, Nadesar Road, Varanasi, Varanasi, Uttar Pradesh, 221002",
+            "city": "VARANASI",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9598958958",
+            "since": "11-Oct-22"
+        },
+        {
+            "store_code": "FSA379",
+            "store_name": "SATKAR ACCESSORIES",
+            "address": "B-85, CENTRAL AUTO MARKET,SECTOR -16, NOIDA -201301",
+            "city": "NOIDA",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9911027412",
+            "since": "01-Apr-23"
+        },
+        {
+            "store_code": "FCG317",
+            "store_name": "CAR GALLERY",
+            "address": "H-11,PATEL NAGAR 3RD,OPP AGRASEN BHAWAN GHAZABAD,201001",
+            "city": "GHAZIABAD",
+            "state": "UTTAR PRADESH",
+            "contact_number": "9811355200",
+            "since": "14-Jul-05"
+        },
+        {
+            "store_code": "FSC329",
+            "store_name": "Shymam Car AC & Decorators",
+            "address": "36/404 , BY PASS ROAD   OPP JAI HOSPITAL AGRA 282002",
+            "city": "AGRA",
+            "state": "UTTAR PRADESH",
+            "contact_number": "98974 55030/98375 00212",
+            "since": "24-Mar-25"
+        },
+        {
+            "store_code": "FSOT380",
+            "store_name": "SAI OM TRADERS",
+            "address": "‎KUMAR RESIDENCY PLAZA, SEC-11 GHAZIABAD VASUNDHRA GHAZIABAD",
+            "city": "GHAZIABAD",
+            "state": "UTTAR PRADESH",
+            "contact_number": "98104 96690",
+            "since": "01-Jul-24"
         }
     ]
 }
