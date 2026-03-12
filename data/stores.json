@@ -998,6 +998,555 @@
             "state": "UTTAR PRADESH",
             "contact_number": "98104 96690",
             "since": "01-Jul-24"
+        },
+        {
+            "store_code": "FGC004",
+            "store_name": "NEW GOODWILL CAR POINT",
+            "address": "6/7 HIRA BAGH, RAJPURAROAD, PATIALA, PUNJAB, 147001",
+            "city": "PATIALA",
+            "state": "PUNJAB",
+            "contact_number": "9815198395",
+            "since": "17-Oct-16"
+        },
+        {
+            "store_code": "FNE006",
+            "store_name": "NEELAM ELECTRONICS",
+            "address": "SHUBHASH CHOWK SONIPAT , HARYANA 131001",
+            "city": "SONIPAT",
+            "state": "HARYANA",
+            "contact_number": "9896340706",
+            "since": "10-Feb-17"
+        },
+        {
+            "store_code": "FGA010",
+            "store_name": "GENUINE AUTO SPARES",
+            "address": "SCF -5 SECTOR 28 C , CHANDIGARH 160002",
+            "city": "CHANDIGARH",
+            "state": "PUNJAB",
+            "contact_number": "9876111584",
+            "since": "03-Apr-17"
+        },
+        {
+            "store_code": "FNU016",
+            "store_name": "NU LOOK CAR ACCESSORIES - GANDHI NAGAR",
+            "address": "45B/C AUQUAF MARKET GANDHI NAGAR JAMMU ,J&K 180004",
+            "city": "GANDHI NAGAR",
+            "state": "J&K",
+            "contact_number": "9419193031, 9622270835",
+            "since": "13-Jun-17"
+        },
+        {
+            "store_code": "FNU017",
+            "store_name": "NU LOOK CAR ACCESSORIES - CHANNI",
+            "address": "OPP. SUNWAN ARMY GATE,BYPASS CHANNI , JAMMU ,J&K 180015",
+            "city": "JAMMU",
+            "state": "J&K",
+            "contact_number": "9419198508",
+            "since": "13-Jun-17"
+        },
+        {
+            "store_code": "FCC023",
+            "store_name": "CHAUDHARY CAR LIBAS",
+            "address": "SHOP NO 5 NEAR SKYLARK TOURIST COMPLEX, G.T. ROAD, PANIPAT 132103",
+            "city": "PANIPAT",
+            "state": "HARYANA",
+            "contact_number": "9896305258",
+            "since": "09-Jan-18"
+        },
+        {
+            "store_code": "FUAL36",
+            "store_name": "UNITED AUTO LUDHIANA",
+            "address": "36-37-C, 1ST FLOOR, DUGRI RD, NEAR MAATA PALACE, MODEL TOWN EXTENSION, MODEL TOWN, LUDHIANA, PUNJAB 141003",
+            "city": "LUDHIANA",
+            "state": "PUNJAB",
+            "contact_number": "9815034543, 7986660769",
+            "since": "27-May-18"
+        },
+        {
+            "store_code": "FCL065",
+            "store_name": "CAR LIFE CUSTOMS",
+            "address": "Plot no. 221, Industrial area phase 1, Chandigarh 160002",
+            "city": "CHANDIGARH",
+            "state": "PUNJAB",
+            "contact_number": "8102000000",
+            "since": "03-Apr-19"
+        },
+        {
+            "store_code": "FA2Z68",
+            "store_name": "A2Z CAR ACCESSORIES - ROHTAK",
+            "address": "NEAR JAAT BHAWAN,OPP TAAV DEVILAL PARK,DELHI ROAD, ROHTAK-124001",
+            "city": "ROHTAK",
+            "state": "HARYANA",
+            "contact_number": "9015943755, 7015410825",
+            "since": "04-Jun-19"
+        },
+        {
+            "store_code": "FCM069",
+            "store_name": "CAR MAHAL (CHAWLA CAR ACCESSORIES)",
+            "address": "CAR MAHAL NEAR MADHU HOTEL,YAMUNA NAGAR-135001",
+            "city": "YAMUNA NAGAR",
+            "state": "HARYANA",
+            "contact_number": "9896261813, 9315470695",
+            "since": "08-Jun-19"
+        },
+        {
+            "store_code": "FCC075",
+            "store_name": "CITY CAR DECOR",
+            "address": "CITY COMPLEX, NEAR NEW COURT,DELHI ROAD,HANSI,HARYANA-125033",
+            "city": "HANSI",
+            "state": "HARYANA",
+            "contact_number": "8000007331, 8929691951",
+            "since": "09-Oct-19"
+        },
+        {
+            "store_code": "FGC076",
+            "store_name": "GUPTA CAR ACCESSORIES",
+            "address": "424-25, AUTO MARKET,HISAR,HARYANA -125001",
+            "city": "HISSAR",
+            "state": "HARYANA",
+            "contact_number": "9810761194",
+            "since": "09-Oct-19"
+        },
+        {
+            "store_code": "FCBJ89",
+            "store_name": "CAR BEAUTY - JALANDHAR",
+            "address": "SHOP NO.-1, UPPAL TOWER,SESSION COURT ROAD,BMC CHOWK, JALANDHAR, PUNJAB 144004",
+            "city": "JALANDHAR",
+            "state": "PUNJAB",
+            "contact_number": "8146400684, 9041478742",
+            "since": "31-Jan-20"
+        },
+        {
+            "store_code": "FFD105",
+            "store_name": "FD SEAT COVER",
+            "address": "F D SEAT COVER FACTORY OPPOSITE NEXA SHOWROOM AND ENFIELD SHOWROOM CHANDIGARH ROAD BALDEV NAGAR AMBALA CITY",
+            "city": "AMBALA",
+            "state": "HARYANA",
+            "contact_number": "9355566621",
+            "since": "21-Feb-21"
+        },
+        {
+            "store_code": "FHA108",
+            "store_name": "HISAR AUTO CRAFT",
+            "address": "SHOP NO.387,OLD AUTO MARKET, NEAR HANUMAN MANDIR HISAR, HARYANA 125001",
+            "city": "HISAR",
+            "state": "HARYANA",
+            "contact_number": "8950550387",
+            "since": "04-Jul-21"
+        },
+        {
+            "store_code": "FNC114",
+            "store_name": "NEW CAR EXPERT",
+            "address": "SHOP NO 22,SECTOR 7,GOHANA,HARYANA 131301",
+            "city": "GOHANA",
+            "state": "HARYANA",
+            "contact_number": "9802185800",
+            "since": "14-Sep-21"
+        },
+        {
+            "store_code": "FWS117",
+            "store_name": "WELCOME STICKER",
+            "address": "KAITHAL ROAD CHEEKA,NEAR HDFC BANK,DISTT-KAITHAL, HARYANA-136034",
+            "city": "CHEEKA",
+            "state": "HARYANA",
+            "contact_number": "9729007564, 9729898153",
+            "since": "01-Oct-21"
+        },
+        {
+            "store_code": "FCS118",
+            "store_name": "CAR SHINE",
+            "address": "K.P ROAD ANANTNAG,OPP. MASJID AL NOOR- 192101",
+            "city": "ANANTNAG",
+            "state": "J&K",
+            "contact_number": "7006280898",
+            "since": "10-Oct-21"
+        },
+        {
+            "store_code": "FAC119",
+            "store_name": "AUTO CONCEPTS",
+            "address": "MODEL TOWN D,OPP. JK BANK ATM, SOPORE 193201, JAMMU & KASHMIR",
+            "city": "SOPORE",
+            "state": "J&K",
+            "contact_number": "9622558835, 9906358000",
+            "since": "10-Oct-21"
+        },
+        {
+            "store_code": "FMQ120",
+            "store_name": "M.Q MOTORS",
+            "address": "M.A. LINK ROAD, MUNAWARABAD, SRINAGAR, KASHMIR PIN CODE 190001",
+            "city": "SRINAGAR",
+            "state": "J&K",
+            "contact_number": "9906594760, 9419002176",
+            "since": "10-Oct-21"
+        },
+        {
+            "store_code": "FNA123",
+            "store_name": "NEW ACCESSORIES WORLD",
+            "address": "NEAR HDFC BANK,OLD BUS STAND,BUDGAM KASHMIR-191111",
+            "city": "BUDGAM",
+            "state": "J&K",
+            "contact_number": "7006443013, 9858770007",
+            "since": "10-Mar-20"
+        },
+        {
+            "store_code": "FAS136",
+            "store_name": "SHIV SHAKTI ENTERPRISES",
+            "address": "OPP VENICE RESORT, MAMOON, DALHOUSIE ROAD, PATHANKOT, Pathankot, Punjab, 145001",
+            "city": "Pathankot",
+            "state": "Punjab",
+            "contact_number": "9888707149, 9888654671",
+            "since": "18-Apr-22"
+        },
+        {
+            "store_code": "FCP137",
+            "store_name": "CAR PLAZA - SONIPAT",
+            "address": "Shop no-43 ,Sec-14 Market Sonepat Sonipat, Sonipat-131001, Haryana, India",
+            "city": "SONIPAT",
+            "state": "HARYANA",
+            "contact_number": "9896333274",
+            "since": "03-Apr-22"
+        },
+        {
+            "store_code": "FAPC138",
+            "store_name": "A PLUS CAR PLAZA - KUNDALI",
+            "address": "SCO-25 EMPEROR SQUARE TDI CITY KUNDLI HATAYANA 131028",
+            "city": "KUNDALI",
+            "state": "HARYANA",
+            "contact_number": "7988486170",
+            "since": "03-Apr-22"
+        },
+        {
+            "store_code": "FCJ139",
+            "store_name": "CAR JANNAT",
+            "address": "NEAR CIVIL HOSPITAL CHOWK,\nOPP. SHANKAR PLAZA,\nKARNAL-1320021 , HARYANA",
+            "city": "KARNAL",
+            "state": "HARYANA",
+            "contact_number": "9118000090",
+            "since": "03-Apr-22"
+        },
+        {
+            "store_code": "FMS144",
+            "store_name": "MACRON SHOPEE",
+            "address": "SHOP NO-381,MUGAL CANAL MARKET,KARNAL 132001",
+            "city": "KARNAL",
+            "state": "HARYANA",
+            "contact_number": "9812511110, 9215680013",
+            "since": "12-May-22"
+        },
+        {
+            "store_code": "FAM146",
+            "store_name": "ABDHULLAH MOTORS",
+            "address": "NH1 MALSHAHI BAGH, GANDERBAL KASHMIR OPP. HYDERIA MOTORS. 191201",
+            "city": "GANDERBAL",
+            "state": "J&K",
+            "contact_number": "9906594760",
+            "since": "16-Jun-22"
+        },
+        {
+            "store_code": "FNCZ147",
+            "store_name": "NK CAR ZONE BARNALA",
+            "address": "NEAR HONDA AGENCY DHANUALA ROAD BARNANAL PUNJAB 148101",
+            "city": "BARNALA",
+            "state": "PUNJAB",
+            "contact_number": "9115556108",
+            "since": "15-Jul-22"
+        },
+        {
+            "store_code": "FSC150",
+            "store_name": "SACHDEVA CAR ACC",
+            "address": "NIYAL BYE PASS,NEAR SUN CITY PATRAN PATIALA-147105",
+            "city": "PATARN",
+            "state": "PUNJAB",
+            "contact_number": "9815685083",
+            "since": "14-Aug-22"
+        },
+        {
+            "store_code": "FNC160",
+            "store_name": "NIKHIL CAR WORLD",
+            "address": "SHOP NO-4,VILLAGE -KHOKRA,CHANDIGARH SISWA ROAD,HARYANA \nPIN CODE- 134102",
+            "city": "BADDHI",
+            "state": "HIMACHAL PRADESH",
+            "contact_number": "9625252526",
+            "since": "20-Oct-22"
+        },
+        {
+            "store_code": "FKK164",
+            "store_name": "AMAN ENTERPRISES (KAR KARE)",
+            "address": "OPP,GURDEV SERVICE STATION,G.T. ROAD,NEAR TINKONI,BHATINDA PUNJAB 151001",
+            "city": "BHATINDA",
+            "state": "PUNJAB",
+            "contact_number": "9417130716, 7696611538",
+            "since": "15-Dec-22"
+        },
+        {
+            "store_code": "FDCA172",
+            "store_name": "DHAWAN CAR ACCESSORIES",
+            "address": "PHASE- 7 MOHALI SAS NAGAR BOTH NO 104 MOTOR MARKET PINCODE 160059 PUNJAB",
+            "city": "MOHALI",
+            "state": "PUNJAB",
+            "contact_number": "9876011102",
+            "since": "30-Mar-23"
+        },
+        {
+            "store_code": "FVB176",
+            "store_name": "VB CAR PALACE",
+            "address": "NH-1A DOMAIL, UDHAMPUR J&K near housing colony,PIN CODE 182101",
+            "city": "UDHAMPUR",
+            "state": "J&K",
+            "contact_number": "9086270424, 9419161381",
+            "since": "19-Mar-23"
+        },
+        {
+            "store_code": "FCNC177",
+            "store_name": "NEW CAR N CARE (PATIALA)",
+            "address": "LOWER MALL RD, NABHA GATE, PATIALA, PUNJAB 147001",
+            "city": "PATIALA",
+            "state": "PUNJAB",
+            "contact_number": "9814407922",
+            "since": "19-Mar-23"
+        },
+        {
+            "store_code": "FAT180",
+            "store_name": "ASHA TRADERS /ASHA CAR ACCESSORIES",
+            "address": "BEHIND SAINI MOTORS ,SHAURA ROAD V.P.O ICCHI DISTRICT &TEHSIL KANGRA HIAMCHAL PRADESH 176209",
+            "city": "KANGRA",
+            "state": "HIMACHAL PRADESH",
+            "contact_number": "9736187227",
+            "since": "01-Jun-23"
+        },
+        {
+            "store_code": "FNCW185",
+            "store_name": "MEHRA ENTERPRISES/ NEW CAR WORLD",
+            "address": "JALANDHAR DALHOUSIE BYE PASS ROAD, OPP CITY GAS AGENCY, PATHANKOT-145001",
+            "city": "PATHANKOT",
+            "state": "PUNJAB",
+            "contact_number": "9855846775, 9915965797",
+            "since": "17-Oct-22"
+        },
+        {
+            "store_code": "FACA186",
+            "store_name": "AALISHAN CAR ACCESSORIES",
+            "address": "#14,JAIN MANDIR MARKET, CANTONMENT AREA, FIROZPUR, PUNJAB 152001",
+            "city": "FIROZPUR",
+            "state": "PUNJAB",
+            "contact_number": "9855245749",
+            "since": "18-Oct-22"
+        },
+        {
+            "store_code": "FSCA205",
+            "store_name": "SHAHI CAR ACCESSORIES",
+            "address": "SHAHI CAR ACCESSORIES BACK SIDE NATIONAL CAR WORLD NEAR FLY OVER KOTKAPURA BYE PASS MOGA PIN CODE142001",
+            "city": "MOGA",
+            "state": "PUNJAB",
+            "contact_number": "9914902410",
+            "since": "04-Jan-23"
+        },
+        {
+            "store_code": "FLCAH215",
+            "store_name": "LUXMI CAR ACCESSORIES (HARYANA)",
+            "address": "SHIV COLONY, NEW COLONY, KURUKSHETRA, HARYANA 136118, INDIA",
+            "city": "KURUKSHETRA",
+            "state": "HARYANA",
+            "contact_number": "9996123023",
+            "since": "10-Dec-23"
+        },
+        {
+            "store_code": "FCFH221",
+            "store_name": "CAR FASHION HUB (JIND)",
+            "address": "SAFIDON ROAD ,NEAR BHARDWAJ PETROL PUMP JIND (HARYANA) PIN 126102",
+            "city": "JIND",
+            "state": "HARYANA",
+            "contact_number": "9813713781",
+            "since": "28-Jul-23"
+        },
+        {
+            "store_code": "FTDC258",
+            "store_name": "THE DETAILING CAFÉ",
+            "address": "L-11 MAIN ROAD SOUTH CITY OPPOSITE MAGIC TREE \nLUDHIANA PUNJAB 142027\n",
+            "city": "LUDHIANA",
+            "state": "PUNJAB",
+            "contact_number": "9493500002",
+            "since": "01-Jan-23"
+        },
+        {
+            "store_code": "FJMC270",
+            "store_name": "JMC CAR WORLD",
+            "address": "R5XX+JWP, NEHRAN PUKHAR, HIMACHAL PRADESH 177104",
+            "city": "DEHRA ,PUKHAR",
+            "state": "HIMACHAL PRADESH",
+            "contact_number": "7807481594",
+            "since": "10-Dec-23"
+        },
+        {
+            "store_code": "FDNS272",
+            "store_name": "DNS AUTOMOTIVE",
+            "address": "BOOTH NO 626,627 \nNEW MOTOR MARKET, \nMANIMAJRA CHANDIGARH 160101",
+            "city": "MANIMAJRA",
+            "state": "PUNJAB",
+            "contact_number": "9888769075",
+            "since": "01-Jun-24"
+        },
+        {
+            "store_code": "FCL273",
+            "store_name": "CAR LIFE 28",
+            "address": "SCO 138, SECTOR 28 - D, CHANDIGARH, 160002",
+            "city": "CHANDIGARH",
+            "state": "PUNJAB",
+            "contact_number": "9872500009",
+            "since": "10-Dec-23"
+        },
+        {
+            "store_code": "FTC274",
+            "store_name": "THAKUR CAR SHINGAR",
+            "address": "JALANDHAR ROAD, \nBATALA -143505 PUNJAB",
+            "city": "BATALA",
+            "state": "PUNJAB",
+            "contact_number": "8427608874",
+            "since": "11-Aug-23"
+        },
+        {
+            "store_code": "FVMA279",
+            "store_name": "V MART AUTOMOTIVES - PULWAMA",
+            "address": "MALIKPURA,PULWAMA ,CIRCULAR ROAD,192301",
+            "city": "PULWAMA",
+            "state": "J&K",
+            "contact_number": "9797782292",
+            "since": "09-Dec-23"
+        },
+        {
+            "store_code": "FCNC282",
+            "store_name": "CAR N CARE -KAITHAL",
+            "address": "Near Reliance Smart Store, Ambala Road, Kaithal - 136027",
+            "city": "GURUGRAM",
+            "state": "HARYANA",
+            "contact_number": "9050009621",
+            "since": "01-May-20"
+        },
+        {
+            "store_code": "FJC337",
+            "store_name": "JASLEEN CAR SEAT COVERS AND ACCESSORIES",
+            "address": "Shop no.1.. Bajwa complex.. Circular road.. Kapurthala punjab 144001",
+            "city": "KAPURTHALA",
+            "state": "PUNJAB",
+            "contact_number": "9988900080, 7696500012",
+            "since": "25-Feb-25"
+        },
+        {
+            "store_code": "FTM341",
+            "store_name": "MOTOMIZERS(TECH MOTOMIZERS PRIVATE LIMITED)",
+            "address": "SCO-8, PARK PANORAMA, NEAR GREEN CITY MAIN ROAD, NATIONAL COLONY, BATHINDA, PUNJAB 151001",
+            "city": "BATHINDA",
+            "state": "PUNJAB",
+            "contact_number": "8973180007, 9592426666",
+            "since": "01-Dec-22"
+        },
+        {
+            "store_code": "FJSS343",
+            "store_name": "JAI SHIVE SAKTI MOTORS",
+            "address": "NAHAN, ROAD, NEAR JIO POINT, NARAINGARH, HARYANA 134203",
+            "city": "NARAYANGARH",
+            "state": "HARYANA",
+            "contact_number": "7015070195",
+            "since": "01-Jun-24"
+        },
+        {
+            "store_code": "FSCA344",
+            "store_name": "SHIVOOM CAR ACCESSORIES",
+            "address": "SHOP NO 20,ITI CHOWK, BYPASS ROAD, PREET VIHAR, SONIPAT 131001",
+            "city": "SONIPAT",
+            "state": "HARYANA",
+            "contact_number": "9896703847, 9896238333",
+            "since": "05-Jan-24"
+        },
+        {
+            "store_code": "FNLC140",
+            "store_name": "NEXT LEVEL CAR ACCESSORIES",
+            "address": "Near Hero Manawer Showroom swankha Morh, vijapur, 184120",
+            "city": "JAMMU",
+            "state": "J&K",
+            "contact_number": "9596853888 , 9796062776",
+            "since": "05-Apr-22"
+        },
+        {
+            "store_code": "FECC159",
+            "store_name": "ENDLESS CAR CREATION",
+            "address": "SIDIQ COLONY BYPASS ROAD NEAR PERFECT CAR CARE SOPORE JAMMU AND KASHMIR 193201",
+            "city": "SOPORE",
+            "state": "J&K",
+            "contact_number": "7006930952",
+            "since": "16-Oct-22"
+        },
+        {
+            "store_code": "FMC161",
+            "store_name": "MUSIC CREATION",
+            "address": "H 44 NEAR HDFC BANK PAMPORE PIN 192121..DIST PULWAMA NEAR HDFC BANK, PAMPORE",
+            "city": "PAMPORE",
+            "state": "J&K",
+            "contact_number": "7889529500, 9469881010",
+            "since": "28-Oct-22"
+        },
+        {
+            "store_code": "FJON162",
+            "store_name": "JOON CAR ACCESSORIES",
+            "address": "NEAR SHANGRILA HOTEL OPP,JAAT BHAWAN ROHTAK PIN CODE 124001",
+            "city": "ROHTAK",
+            "state": "HARYANA",
+            "contact_number": "8295606084",
+            "since": "06-Nov-22"
+        },
+        {
+            "store_code": "FMT225",
+            "store_name": "MONGA TYRES/4M INTERNATIONAL",
+            "address": "G.T ROAD,OPPOSITE HERO CYCLES LIMITED,FOCAL POINT, LUDHIANA,PUNJAB 141008",
+            "city": "LUDHIANA",
+            "state": "PUNJAB",
+            "contact_number": "7009422645",
+            "since": "06-Dec-22"
+        },
+        {
+            "store_code": "FOCA226",
+            "store_name": "OM CAR ACCESSORIES",
+            "address": "OM CAR ACCESSORIES\nS.C.F.-11, SECTOR-28/C\nCHANDIGARH-160002",
+            "city": "CHANDIGARH",
+            "state": "PUNJAB",
+            "contact_number": "9988170608, 9876669877, 0172-7963147",
+            "since": "22-Jan-23"
+        },
+        {
+            "store_code": "FCL271",
+            "store_name": "LIFE FURNISHING HOUSE/CAR LIFE 27",
+            "address": "SCO 9. & 10 SECTOR 27 c Chandigarh, Chandigarh-160068, India",
+            "city": "CHANDIGARH",
+            "state": "PUNJAB",
+            "contact_number": "9417360039",
+            "since": "22-Jan-24"
+        },
+        {
+            "store_code": "FLAZ275",
+            "store_name": "LUXURY AUTO ZONE",
+            "address": "SCF-123, 1ST & 2ND FLOOR ,OPPOSITE LAXMI NARAYAN MANDIR 11,SAHIBZADA AJIT SINGH NAGAR PUNJAB -160062",
+            "city": "MOHALI",
+            "state": "PUNJAB",
+            "contact_number": "9417555151",
+            "since": "22-Jan-25"
+        },
+        {
+            "store_code": "FNSA342",
+            "store_name": "NEW SEIKO AUTO INDUSTRIES",
+            "address": "NEW SEIKO AUTO INDUSTRIES,SCO-315, MANIMAJRA CHANDIGARH",
+            "city": "CHANDIGARH",
+            "state": "PUNJAB",
+            "contact_number": "9815738586",
+            "since": "09-Oct-25"
+        },
+        {
+            "store_code": "FBCA213",
+            "store_name": "BHATT CAR ACCESSORIES",
+            "address": "CHADOORA BUDGAM KASHMIR 191113",
+            "city": "BUDGAM",
+            "state": "J&K",
+            "contact_number": "7889458273",
+            "since": "08-May-24"
         }
     ]
 }
