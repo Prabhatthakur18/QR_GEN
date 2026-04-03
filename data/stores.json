@@ -1307,7 +1307,7 @@
         },
         {
             "store_code": "FAT180",
-            "store_name": "ASHA TRADERS /ASHA CAR ACCESSORIES",
+            "store_name": "ASHA TRADERS",
             "address": "BEHIND SAINI MOTORS, SHAURA ROAD V.P.O ICCHI DISTRICT &TEHSIL KANGRA HIAMCHAL PRADESH 176209",
             "city": "KANGRA",
             "state": "HIMACHAL PRADESH",
@@ -2735,6 +2735,33 @@
             "state": "RAJASTHAN",
             "contact_number": "7737647647",
             "since": "24-Jan-20"
+        },
+        {
+            "store_code": "FVKS217",
+            "store_name": "VEENA CAR SAJAWAT",
+            "address": "NA RAMBANDHU TALAW G T ROAD ASANSOL WEST BENGAL PIN CODE 713303",
+            "city": "KOLKATA",
+            "state": "WEST BENGAL",
+            "contact_number": "9932032959",
+            "since": "10-May-23"
+        },
+        {
+            "store_code": "FACA333",
+            "store_name": "ASHA CAR ACCESSORIES",
+            "address": "BEHIND SAINI TAT MOTORS SAHURA ROAD, ICCHI, VPO, Himachal Pradesh, 176209",
+            "city": "KANGRA",
+            "state": "HIMACHAL PRADESH",
+            "contact_number": "9816111164",
+            "since": "N/A"
+        },
+        {
+            "store_code": "FNAMR371",
+            "store_name": "NEW AMR AUTO CARE",
+            "address": "1, Chauhan Building Rohru Main Road, Municipal Council Rohru Ward No.1 Makhinala Rohru Shimla - 171207",
+            "city": "ROHRU",
+            "state": "HIMACHAL PRADESH",
+            "contact_number": "8070057777",
+            "since": "N/A"
         }
     ]
 }
