@@ -2369,11 +2369,11 @@
         },
         {
             "store_code": "FAC310",
-            "store_name": "ARIHANT CAR/ARIHANT CAR DECOR",
-            "address": "3 SUBHAS NAGAR NEAR SENT PAUL'S SCHOOL NIMBHAHERA RAOD CHITTORGARH 312001",
+            "store_name": "ARIHANT CAR ACCESSORIES",
+            "address": "3 SUBHAS NAGAR NEAR SENT PAUL'S SCHOOL NIMBAHERA ROAD CHITTORGARH 312001",
             "city": "CHITTORGARH",
             "state": "RAJASTHAN",
-            "contact_number": "7568745441 / 7357000441",
+            "contact_number": "7568745441, 7357000441",
             "since": "01-Dec-24"
         },
         {
@@ -2762,6 +2762,402 @@
             "state": "HIMACHAL PRADESH",
             "contact_number": "8070057777",
             "since": "N/A"
+        },
+        {
+            "store_code": "FC1092",
+            "store_name": "CAR INDIA",
+            "address": "CHOUDAN COMPLEX BHALUBASA CHOWK, JAMSHEDPUR-9",
+            "city": "JAMSHEDPUR",
+            "state": "JHARKHAND",
+            "contact_number": "9955353947",
+            "since": "03-Mar-20"
+        },
+        {
+            "store_code": "FRM307",
+            "store_name": "ROYAL MOTOR PURNEA",
+            "address": "NH 31, NEAR MAHINDRA SHOWROOM MARANGA, PURNEA, BIHAR-854303",
+            "city": "PURNEA",
+            "state": "BIHAR",
+            "contact_number": "9708224779",
+            "since": "18-May-05"
+        },
+        {
+            "store_code": "FDIS368",
+            "store_name": "DRIVE-IN STYLE",
+            "address": "HEM SINGH BAGAN AREA, BEYOND POD HOTEL, NEW KALIMATI ROAD, SAKCHI - 831001",
+            "city": "JAMSHEDPUR",
+            "state": "JHARKHAND",
+            "contact_number": "7070354628",
+            "since": "28-Feb-26"
+        },
+        {
+            "store_code": "FBNA339",
+            "store_name": "BN AUTOFORMATION",
+            "address": "House NO 5 STREET NO F/3, ALKAPURI, BHAWANPUR, USHA DEVI, BEHIND UPMANYU PEP SCHOOL, DIAMOND ENGINEERS WORKS, YADAV NAGAR, MUZAFFARPUR, MUZAFFARPUR, BIHAR, 842001",
+            "city": "MUZAFFARPUR",
+            "state": "BIHAR",
+            "contact_number": "8882196661",
+            "since": "28-Jul-25"
+        },
+        {
+            "store_code": "FBOB02",
+            "store_name": "BOBS AUTO MALL",
+            "address": "SHOP NO- 3 & 4, ATUL KATARIA CHOWK, KHASRA NO-2022, GURGAON-122001",
+            "city": "GURUGRAM",
+            "state": "HARYANA",
+            "contact_number": "9811006770 / 9310106770\n9811006770",
+            "since": "04-Jun-16"
+        },
+        {
+            "store_code": "FQC003",
+            "store_name": "QUICK CAR ACCESSORIES",
+            "address": "G-53, AGGARWAL SHOPPING COMPLEX, CD BLOCK, LSC POWER HOUSE ROAD, PITAMPURA-110034, DELHI",
+            "city": "PITAMPURA",
+            "state": "DELHI",
+            "contact_number": "9818007667 , 7982079950",
+            "since": "12-Sep-16"
+        },
+        {
+            "store_code": "FSF013",
+            "store_name": "SARAL CAR ACCESSORIES",
+            "address": "OPP.ADANI CNG PUMP BYE PASS ROAD, BEHIND SECTOR-9, FARIDABAD, HARYANA PIN CODE-121001",
+            "city": "FARIDABAD",
+            "state": "HARYANA",
+            "contact_number": "96504 40822 | 9811040822",
+            "since": "21-Apr-17"
+        },
+        {
+            "store_code": "FLA018",
+            "store_name": "LALJI ACCESSORIES",
+            "address": "8/54, NEAR MOTHER DAIRY, MAHAVIR MANDIR GEETA COLONY NEW DELHI, 110031",
+            "city": "GEETA COLONY",
+            "state": "DELHI",
+            "contact_number": "9871107108/9718941614",
+            "since": "26-Jun-17"
+        },
+        {
+            "store_code": "FAM077",
+            "store_name": "AUTO MUSIC EMPORIUM",
+            "address": "10172, ABDUL AZIZ ROAD, KAROL BAGH, NEW DELHI, DELHI 110005",
+            "city": "KAROL BAG",
+            "state": "DELHI",
+            "contact_number": "7982618185/9810020606",
+            "since": "01-Nov-19"
+        },
+        {
+            "store_code": "FIE098",
+            "store_name": "INDUS ENTERPRISES",
+            "address": "B-45, LAJPAT NAGAR II, NEW DELHI 110024",
+            "city": "LAJPAT NAGAR",
+            "state": "DELHI",
+            "contact_number": "9811886661",
+            "since": "01-Jan-21"
+        },
+        {
+            "store_code": "FTC163",
+            "store_name": "KAR WORLD",
+            "address": "43 DEEN DAYAL MARKET TITAR PUR NAJAFGARH ROAD RAJOURI GARDEN METRO PILLAR NO 426 NEW DELHI 110027",
+            "city": "RAJOURI GARDEN",
+            "state": "DELHI",
+            "contact_number": "9999001142",
+            "since": "17-Nov-22"
+        },
+        {
+            "store_code": "FCA178",
+            "store_name": "C ALOK INDIA",
+            "address": "B-27, STREET NO-3, CHANDER VIHAR, OPP MAITRI APARTMENST, IP EXTENSION, MADHU VIHAR ROAD, PATPARGANJ, DELHI-110092",
+            "city": "PATPARGANJ",
+            "state": "DELHI",
+            "contact_number": "9999790058",
+            "since": "12-May-23"
+        },
+        {
+            "store_code": "FCSA179",
+            "store_name": "STANDARD ACCESSORIES",
+            "address": "STANDARD ACCESSORIES 16/2, WEA, ABDUL AZIZ ROAD, SEWAK BHAWAN, KAROL BAGH, DELHI, 110005, INDIA",
+            "city": "KAROL BAGH",
+            "state": "DELHI",
+            "contact_number": "98711 48384",
+            "since": "01-May-23"
+        },
+        {
+            "store_code": "FACA187",
+            "store_name": "AJAY CAR ACCESSORIES",
+            "address": "GG -2/74A, VIKAS PURI NEW DELHI 110018",
+            "city": "VIKAS PURI",
+            "state": "DELHI",
+            "contact_number": "9811386389",
+            "since": "01-Oct-22"
+        },
+        {
+            "store_code": "FCT197",
+            "store_name": "CAR TRENDZ",
+            "address": "50A K C GOEL MARG WAZIR PUR VILLAGE, NEAR WATER TANK, ASHOK VIHAR DELHI 110052",
+            "city": "ASHOK VIHAR",
+            "state": "DELHI",
+            "contact_number": "9873398525",
+            "since": "25-Dec-25"
+        },
+        {
+            "store_code": "FAM198",
+            "store_name": "AUTO MAKEOVER",
+            "address": "C11/24 SECTOR 3 ROHINI PIN CODE 110085",
+            "city": "ROHINI",
+            "state": "DELHI",
+            "contact_number": "9654073334",
+            "since": "25-Dec-25"
+        },
+        {
+            "store_code": "FLC200",
+            "store_name": "LADI CAR",
+            "address": "I 149 PATEL ROAD BLOCK I KARAM PURA WEST KARAM PURA NEW DELHI 110015",
+            "city": "KARMPURA",
+            "state": "DELHI",
+            "contact_number": "9958480395/9810327395",
+            "since": "25-Dec-25"
+        },
+        {
+            "store_code": "FKC201",
+            "store_name": "K CAR KUNJ PVT LTD",
+            "address": "SHOP NO 19, NORTH WEST AVENUE MARKET, CLUB ROAD, PUNJABI BAGH WEST, NEW DELHI 110026",
+            "city": "PUNJABI BAGH",
+            "state": "DELHI",
+            "contact_number": "7042351111/ 9810701111 /9910701111",
+            "since": "02-Jun-22"
+        },
+        {
+            "store_code": "FEKA216",
+            "store_name": "ELEGANT KAR ACCESSORIES",
+            "address": "GROUND FLOOR B 38 PART 2 LAJPAT NAGAR SOUTH DELHI 110024",
+            "city": "LAJPAT NAGAR",
+            "state": "DELHI",
+            "contact_number": "9811228552",
+            "since": "23-Jan-24"
+        },
+        {
+            "store_code": "FATS251",
+            "store_name": "ACCESSORIES (THE SHOPPE)",
+            "address": "G-48, PALIKA BHAWAN RD, OPPOSITE HYATT REGENCY HOTEL, BLOCK B, SECTOR 13, RAMA KRISHNA PURAM, NEW DELHI, DELHI 110066",
+            "city": "DELHI",
+            "state": "DELHI",
+            "contact_number": "9873448830",
+            "since": "08-Jul-16"
+        },
+        {
+            "store_code": "FRM253",
+            "store_name": "RAJ MOTORS",
+            "address": "Shop No-LG/3 Rama Palace Phase-1 Sector-20B Faridabad Haryana-121007",
+            "city": "FARIDABAD",
+            "state": "HARYANA",
+            "contact_number": "79822 31693 / 9891049315",
+            "since": "20-Sep-23"
+        },
+        {
+            "store_code": "FBBC254",
+            "store_name": "Mr Brown Bear Car Coat (Rikam Enterprises)",
+            "address": "Shed No 127B, HSIIDC Industrial Area sector 31 Faridabad Haryana 121003",
+            "city": "FARIDABAD",
+            "state": "HARYANA",
+            "contact_number": "9289900999",
+            "since": "21-Nov-23"
+        },
+        {
+            "store_code": "FZCM223",
+            "store_name": "ZAIN CAR MODIFIERS",
+            "address": "SHOP NO 12-11-107/8 GOUSHALA ROAD NEAR ARAB MOHALLA RAICHUR DIST:- RAICHUR PIN CODE:-584-101",
+            "city": "RAICHUR",
+            "state": "KARNATAKA",
+            "contact_number": "8951343800\n7676530588",
+            "since": "13-Oct-23"
+        },
+        {
+            "store_code": "FNC057",
+            "store_name": "NIA CAR DÉCOR",
+            "address": "SHOP NO 18 BALRAM COMPLEX, OPPOSITE SHIVAJI KAMAN GANDHI NAGAR.585104",
+            "city": "KALABURGI",
+            "state": "KARNATAKA",
+            "contact_number": "9880210188",
+            "since": "18-Nov-18"
+        },
+        {
+            "store_code": "FDC060",
+            "store_name": "DIVINE CAR",
+            "address": "YMCA SHOPPING COMPLEX, DIVINE CAR FURNISHING, SHOP NO. 9, KANNUR RD, VELLAYIL, KOZHIKODE, KERALA 673001",
+            "city": "CALLICUT",
+            "state": "KERALA",
+            "contact_number": "8893997222",
+            "since": "01-May-19"
+        },
+        {
+            "store_code": "FIA043",
+            "store_name": "INDIA AUTOMOTIVE",
+            "address": "21, JC ROAD, BANGALORE 560002.",
+            "city": "BENGALURU",
+            "state": "KARNATAKA",
+            "contact_number": "9886024570\n9980299721",
+            "since": "18-Mar-20"
+        },
+        {
+            "store_code": "FRSM181",
+            "store_name": "RS CAR MODIFIERS",
+            "address": "32 BHCS LAYOUT, BTM 2ND STAGE BANNERGHATTA MAIN ROAD OPP GOPALAN INNOVATION MALL BANGALORE 560076",
+            "city": "BENGALURU",
+            "state": "KARNATAKA",
+            "contact_number": "9663562200",
+            "since": "31-Aug-22"
+        },
+        {
+            "store_code": "FBIRO183",
+            "store_name": "BIJRONIX",
+            "address": "VL/754VALLATHOL JN SEAPORT AIRPORT ROAD THRIKKAKARA PO KAKKANADU KOCHI 682021",
+            "city": "COCHIN",
+            "state": "KERALA",
+            "contact_number": "9895324659",
+            "since": "12-Dec-22"
+        },
+        {
+            "store_code": "FCD208",
+            "store_name": "CAR DECOR",
+            "address": "GROUND FLOOR 16/1-1, 19B CROSS 3RD BLACK JAYANAGAR BANGLORE 560011",
+            "city": "BENGALURU",
+            "state": "KARNATAKA",
+            "contact_number": "9343561417",
+            "since": "Since 2021"
+        },
+        {
+            "store_code": "FTC209",
+            "store_name": "THE CARS",
+            "address": "Pillar No. 906 Tripunithura Road, Thykoodam, Vyttila, Kochi, 682019",
+            "city": "COCHIN",
+            "state": "KARNATAKA",
+            "contact_number": "8086980082, 9526363707",
+            "since": "Since 2021"
+        },
+        {
+            "store_code": "FCL210",
+            "store_name": "CAR LAND",
+            "address": "ARYATTUPARAMBIL BUILDING SASTRI ROAD KOTTAYAM-686001 KERALA",
+            "city": "KOTTYAM",
+            "state": "KERALA",
+            "contact_number": "9526119222",
+            "since": "05-Jan-24"
+        },
+        {
+            "store_code": "FCP211",
+            "store_name": "CAR PLUS",
+            "address": "COLLEGE JN KOTHAMANGALAM 686691",
+            "city": "KTHAMANGALAM",
+            "state": "KERALA",
+            "contact_number": "9846939050",
+            "since": "18-Nov-16"
+        },
+        {
+            "store_code": "FNCB295",
+            "store_name": "NEW CAR BEAUTY",
+            "address": "8/132-A, NEAR OLIYAN CHAPEL, EAST NAGAR, KAVARAPARMBU, ANGAMALY, KERALA",
+            "city": "ANGAMALY",
+            "state": "KERALA",
+            "contact_number": "9446915308",
+            "since": "Since 2021"
+        },
+        {
+            "store_code": "FEAS350",
+            "store_name": "ELEVATE AUTO STUDIO",
+            "address": "ELEVATE AUTO STUDIO, 716, 3rd BLOCK BEL LAYOUT VIDYARANYAPURA, BANGLORE- 560097",
+            "city": "BENGALURU",
+            "state": "KARNATAKA",
+            "contact_number": "9972164050",
+            "since": "24-Sep-24"
+        },
+        {
+            "store_code": "FCL377",
+            "store_name": "CAR LOUNGE",
+            "address": "#37 Shop -1A, Vishwamanava Double Road, 2nd Main, Near Dolphin Bakes Saraswathipuram, Mysuru- 570009",
+            "city": "Mysore",
+            "state": "KARNATAKA",
+            "contact_number": "9740182244",
+            "since": "Since 2021"
+        },
+        {
+            "store_code": "FFOC378",
+            "store_name": "FULL OPTION CAR ACCESSORIES",
+            "address": "Beach Road Kollam, Kerela Pin - 691001",
+            "city": "KOLLAM",
+            "state": "KERELA",
+            "contact_number": "7560849393, 6238833882",
+            "since": "Since 2021"
+        },
+        {
+            "store_code": "FJJ169",
+            "store_name": "JJ ENTERPRISES",
+            "address": "11, J.C. ROAD BANGALORE 560002",
+            "city": "BENGALURU",
+            "state": "KARNATAKA",
+            "contact_number": "9886378806",
+            "since": "21-Apr-22"
+        },
+        {
+            "store_code": "FPS170",
+            "store_name": "PIT STOP",
+            "address": "PLOT #02, BESIDE HDFC BANK OLD JEWARGI ROAD GULBARGA-585102",
+            "city": "BENGALURU",
+            "state": "KARNATAKA",
+            "contact_number": "9590702070",
+            "since": "12-Nov-22"
+        },
+        {
+            "store_code": "FRSC182",
+            "store_name": "RS CAR PREMIUM",
+            "address": "7/A NAL LAYOUT 4TH T BLOCK EAST THILAKNAGAR JAYANAGAR BENGALURU KARNATAKA 560041",
+            "city": "BENGALURU",
+            "state": "KARNATAKA",
+            "contact_number": "9743767910",
+            "since": "06-Dec-22"
+        },
+        {
+            "store_code": "FCL256",
+            "store_name": "CAR LIBAAZ",
+            "address": "63/12 B RAMA ROAD, GROUND FLOOR NEW DELHI - 110015",
+            "city": "DELHI",
+            "state": "DELHI",
+            "contact_number": "9990632352 ,9811632352",
+            "since": "21-Nov-23"
+        },
+        {
+            "store_code": "FRCA366",
+            "store_name": "RAMDEV CAR ACCESSORIES",
+            "address": "SHOP NO.9 HUB COMPLEX, OPP.LEC ON ENGINEERING, BESIDE HYUNDAI SHOWROOM, ANAND-SOJITRA ROAD, ANAND",
+            "city": "ANAND",
+            "state": "GUJARAT",
+            "contact_number": "9166996183/9880800000",
+            "since": "12-Jan-26"
+        },
+        {
+            "store_code": "FBAS390",
+            "store_name": "BALAJI AUTOMOTIVE STUDIO",
+            "address": "R.S No. 163/1 FP-509/2/1, near Hebatpur Railway Crossing, Hebatpur, Thaltej, Ahemdabad, Gujarat 380059",
+            "city": "AHMEDABAD",
+            "state": "GUJARAT",
+            "contact_number": "9825534872",
+            "since": "N/A"
+        },
+        {
+            "store_code": "FF0145",
+            "store_name": "FASHION ON WHEEL",
+            "address": "G-8 AASTHA CORPORATE CAPITAL NEAR VIP PLAZZA, KHATU SHYAM MANDIR, VIP ROAD SURAT 395001",
+            "city": "SURAT",
+            "state": "GUJARAT",
+            "contact_number": "8320439200, 9510931471",
+            "since": "15-Jan-21"
+        },
+        {
+            "store_code": "FCV291",
+            "store_name": "Car Vatika",
+            "address": "NH-27, Basdeopur Darbhanga, Bihar, 848102",
+            "city": "Darbhanga",
+            "state": "Bihar",
+            "contact_number": "8877436564",
+            "since": "14-Apr-26"
         }
     ]
 }
