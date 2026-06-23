@@ -849,7 +849,7 @@
         {
             "store_code": "FCM155",
             "store_name": "CAR MAHAL",
-            "address": "111/316, HARSH NAGAR NEAR GREEN PETAL KANPUR UTTARPARDESH 208012",
+            "address": "111/316, HARSH NAGAR NEAR GREEN PETAL KANPUR UTTAR PRADESH 208012",
             "city": "KANPUR",
             "state": "UTTAR PRADESH",
             "contact_number": "9793313131",
@@ -885,7 +885,7 @@
         {
             "store_code": "FNC171",
             "store_name": "NEW CAR SHRINGAR",
-            "address": "BEHIND PETROL PUCIVIL LINES MP GANDHI NAGAR RAIBAREILLY UTTAR PARDESH 229001",
+            "address": "BEHIND PETROL PUCIVIL LINES MP GANDHI NAGAR RAIBAREILLY UTTAR PRADESH 229001",
             "city": "RAI BAREILLY",
             "state": "UTTAR PRADESH",
             "contact_number": "9889710011",
@@ -950,7 +950,7 @@
             "store_name": "A TO Z MOTOR",
             "address": "JATAV CAR MARKET, SECTOR 93, NOIDA NEAR POCKET 6.",
             "city": "NOIDA",
-            "state": "UTTAR PARDESH",
+            "state": "UTTAR PRADESH",
             "contact_number": "8585939355",
             "since": "01-01-2026"
         },
@@ -3158,6 +3158,195 @@
             "state": "Bihar",
             "contact_number": "8877436564",
             "since": "14-Apr-26"
+        },
+        {
+            "store_code": "FDCC301",
+            "store_name": "DIVYA CAR CARE",
+            "address": "16, KASTURI COMPLEX OPPOSIT ATITHI DINING HALL BODAKDEV AHMEDABAD GUJARAT-380054",
+            "city": "BODAKDEV, AHEMDABAD",
+            "state": "GUJARAT",
+            "contact_number": "9726373475",
+            "since": "since Oct.25"
+        },
+        {
+            "store_code": "FDM300",
+            "store_name": "DREAM MOTORS",
+            "address": "B/1, Mohini Towers, B/w Atithi Dining Hall, Opp Shraddha Petrol Pump, Judges Bunglow Road, Bodakdev, Ahemdabad -380054",
+            "city": "BODAKDEV, AHEMDABAD",
+            "state": "GUJARAT",
+            "contact_number": "9426368689 / 9898735930",
+            "since": "04-Nov-24"
+        },
+        {
+            "store_code": "FUC052",
+            "store_name": "U GAM CAR SEAT COVER",
+            "address": "Block No.1595 Before Sangh Petrol Pump, Opp. Arihant Marble N.H 8, Grid Road, Sisodara, Navsari, Gujarat - 396445",
+            "city": "NAVSARI",
+            "state": "GUJARAT",
+            "contact_number": "7600902340",
+            "since": "20-Sep-18"
+        },
+        {
+            "store_code": "FAC090",
+            "store_name": "AUTOMAXX CAR ACCESSORIES",
+            "address": "SHOP NO. G-16, SHIV VATIKA COMPLEX, NR.SHIV WADI, NH. 8, KARJAN, VADODARA-391240",
+            "city": "KARJAN",
+            "state": "GUJARAT",
+            "contact_number": "9586660166 / 9016046598",
+            "since": "24-Feb-20"
+        },
+        {
+            "store_code": "FSCD222",
+            "store_name": "SHIV CAR ACCESSORIES",
+            "address": "5 PRAYOSHA COMPLEX, NEXT TO HYUNDAI DOWN TOWN, CHHANI JAKATNAKA VADODARA",
+            "city": "VADODARA",
+            "state": "GUJARAT",
+            "contact_number": "9924462052 / 9879171877",
+            "since": "05-Aug-23"
+        },
+        {
+            "store_code": "FUP134",
+            "store_name": "UMIYA CAR SPA AND CAR ACCESSORIES",
+            "address": "ARBUDA NAGAR DIVISION-2 NEAR G.E.B.BOARD OPPOSITE TO GRAND HOTEL, CHANASMA HIGHWAY ROAD, PATAN PINCODE 384265",
+            "city": "PATAN",
+            "state": "GUJARAT",
+            "contact_number": "9727826524 / 9727839949",
+            "since": "22-Apr-22"
+        },
+        {
+            "store_code": "FBOB02",
+            "store_name": "BOBS AUTO MALL",
+            "address": "SHOP NO- 3 & 4, ATUL KATARIA CHOWK, KHASRA NO-2022, GURGAON-122001",
+            "city": "GURUGRAM",
+            "state": "HARYANA",
+            "contact_number": "9811006770 / 9310106770",
+            "since": "04-Jun-16"
+        },
+        {
+            "store_code": "FSF013",
+            "store_name": "SARAL CAR ACCESSORIES",
+            "address": "OPP.ADANI CNG PUMP BYE PASS ROAD, BEHIND SECTOR-9, FARIDABAD, HARYANA PIN CODE-121001",
+            "city": "FARIDABAD",
+            "state": "HARYANA",
+            "contact_number": "9650440822 / 9811040822 / 7982079950",
+            "since": "21-Apr-17"
+        },
+        {
+            "store_code": "FRM253",
+            "store_name": "RAJ MOTORS",
+            "address": "Shop No-LG/3 Rama Palace Phase-1, Sector-20B Faridabad Haryana-121007",
+            "city": "FARIDABAD",
+            "state": "HARYANA",
+            "contact_number": "79822 31693 / 9891049315",
+            "since": "20-Sep-23"
+        },
+        {
+            "store_code": "FBBC254",
+            "store_name": "Mr Brown Bear Car Coat (Rikam Enterprises)",
+            "address": "Shed No 127B, HSIIDC Industrial Area Sector 31, Faridabad, Haryana 121003",
+            "city": "FARIDABAD",
+            "state": "HARYANA",
+            "contact_number": "9289900999",
+            "since": "21-Nov-23"
+        },
+        {
+            "store_code": "FAPC138",
+            "store_name": "A PLUS CAR PLAZA - KUNDALI",
+            "address": "SCO-25 EMPEROR SQUARE TDI CITY KUNDLI HARYANA 131028",
+            "city": "KUNDALI",
+            "state": "HARYANA",
+            "contact_number": "7988486170",
+            "since": "03-Apr-22"
+        },
+        {
+            "store_code": "FA2Z68",
+            "store_name": "A2Z CAR ACCESSORIES - ROHTAK",
+            "address": "NEAR JAAT BHAWAN, OPP TAAV DEVILAL PARK, DELHI ROAD, ROHTAK-124001",
+            "city": "ROHTAK",
+            "state": "HARYANA",
+            "contact_number": "9015943755 / 7015410825",
+            "since": "04-Jun-19"
+        },
+        {
+            "store_code": "FWS117",
+            "store_name": "WELCOME STICKER",
+            "address": "KAITHAL ROAD CHEEKA, NEAR HDFC BANK, DISTT-KAITHAL, HARYANA-136034",
+            "city": "CHEEKA",
+            "state": "HARYANA",
+            "contact_number": "9729007564 / 9729898153",
+            "since": "01-Oct-21"
+        },
+        {
+            "store_code": "FCFH221",
+            "store_name": "CAR FASHION HUB (JIND)",
+            "address": "Safidon Road, Near Bhardwaj Petrol Pump Jind (Haryana) Pin 126102",
+            "city": "JIND",
+            "state": "HARYANA",
+            "contact_number": "9813713781",
+            "since": "28-Jul-23"
+        },
+        {
+            "store_code": "FCJ139",
+            "store_name": "CAR JANNAT",
+            "address": "NEAR CIVIL HOSPITAL CHOWK, OPP. SHANKAR PLAZA, KARNAL-132021, HARYANA",
+            "city": "KARNAL",
+            "state": "HARYANA",
+            "contact_number": "9118000090",
+            "since": "03-Apr-22"
+        },
+        {
+            "store_code": "FCBA257",
+            "store_name": "CAR BEAUTY AMRITSAR",
+            "address": "28, QUEENS ROAD, CRYSTAL CHOWK, INA COLONY, AMRITSAR, PUNJAB 143006",
+            "city": "AMRITSAR",
+            "state": "PUNJAB",
+            "contact_number": "8235868686",
+            "since": "since Oct.25"
+        },
+        {
+            "store_code": "FCC336",
+            "store_name": "CAR CREATION - FARIDKOT",
+            "address": "NEAR SADAR THANA, KOTKAPURA ROAD, FARIDKOT",
+            "city": "FARIDKOT",
+            "state": "PUNJAB",
+            "contact_number": "9501057025",
+            "since": "since Oct.25"
+        },
+        {
+            "store_code": "FRCS385",
+            "store_name": "Royal Car Spa",
+            "address": "SHOP NO -10, MATTPARA ROAD, BOHRA KABRASTHAN COMMITY COMPLEX, RAJNANDGAON CHATTISGARH -491441",
+            "city": "Rajnand Gaon",
+            "state": "Chhattisgarh",
+            "contact_number": "8319144711",
+            "since": "since April.26"
+        },
+        {
+            "store_code": "FACD388",
+            "store_name": "Aditya Car Deco",
+            "address": "Jindal Road, Besides Guru Shree Villa, Dhimrapur Chowk, Raigarh, Chattisgarh",
+            "city": "Raigarh",
+            "state": "Chhattisgarh",
+            "contact_number": "9589934294",
+            "since": "since April.26"
+        },
+        {
+            "store_code": "FCI092",
+            "store_name": "CAR INDIA",
+            "address": "CHOUHAN COMPLEX BHALUBASA CHOWK, JAMSHEDPUR-9",
+            "city": "JAMSHEDPUR",
+            "state": "JHARKHAND",
+            "contact_number": "9955353947",
+            "since": "03-Mar-20"
+        },
+        {
+            "store_code": "FMGG294",
+            "store_name": "MG AUTO GALLERY",
+            "address": "Jakhal Road Near Axis Bank Sunam, Dist Sangrur, Punjab 148028",
+            "city": "SUNAM",
+            "state": "PUNJAB",
+            "contact_number": "9779919993",
+            "since": "15-06-2026"
         }
     ]
 }
