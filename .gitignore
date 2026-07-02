@@ -8,3 +8,4 @@ QR_Codes
 QR_Codes_AutoCruze
 qr-urls.json
 QR GEN DATA
+.env*.local
