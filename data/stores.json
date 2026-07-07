@@ -3347,6 +3347,33 @@
             "state": "PUNJAB",
             "contact_number": "9779919993",
             "since": "15-06-2026"
+        },
+        {
+            "store_code": "FTA295",
+            "store_name": "TRINITY AUTO",
+            "address": "Sr.no. 40, Near Govind Garden Hotel, Opposite to Silicon Corner Society Pimple, Saudagar, Pune 411027",
+            "city": "Pune Pimri Saudagar",
+            "state": "Maharashtra",
+            "contact_number": "7972198526",
+            "since": "June, 2026"
+        },
+        {
+            "store_code": "FHCA296",
+            "store_name": "HIGHWAY CAR ACCESSORIES",
+            "address": "near Old Fruit Mandi, Bungam, Shopian, pin -192303",
+            "city": "Shopian",
+            "state": "J&K",
+            "contact_number": "9906448602",
+            "since": "June, 2026"
+        },
+        {
+            "store_code": "FWSC297",
+            "store_name": "WASH & SHINE CAR WASH",
+            "address": "NH44, NEAR PARSHURAM TEMPLE Hiranagar, DISTRICT Kathua, J&K, PIN 184142",
+            "city": "Heeranagar",
+            "state": "J&K",
+            "contact_number": "7006640106",
+            "since": "June, 2026"
         }
     ]
 }
