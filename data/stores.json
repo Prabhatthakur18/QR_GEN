@@ -3374,6 +3374,42 @@
             "state": "J&K",
             "contact_number": "7006640106",
             "since": "June, 2026"
+        },
+        {
+            "store_code": "FRCD295",
+            "store_name": "REVA CAR DECORE",
+            "address": "Shop No.1 infront Multilevel Parking beside Bank of India, MP nagar, Bhopal -402011",
+            "city": "Bhopal",
+            "state": "Madhya Pradesh",
+            "contact_number": "9752924372 / 8959129473",
+            "since": "06-08-2026"
+        },
+        {
+            "store_code": "FLCR387",
+            "store_name": "Laxmi Car Pridhan",
+            "address": "Opp Hotel The Oasis, Plot No.123 Village Milk. Wajiuddinpur, Delhi Road, Saharanpur, UP, 247001",
+            "city": "Saharanpur",
+            "state": "Uttar Pradesh",
+            "contact_number": "9756402111",
+            "since": "N/A"
+        },
+        {
+            "store_code": "FCLR380",
+            "store_name": "CAR LIFE SEAT COVER",
+            "address": "Opp. Sainik Rest House, Railway Board., Ropar, Rupnagar, Pin 140001, Punjab",
+            "city": "Rupnagar",
+            "state": "Punjab",
+            "contact_number": "9814572880 / 7973771903",
+            "since": "N/A"
+        },
+        {
+            "store_code": "SSCA297",
+            "store_name": "S S CAR ACCESSORIES",
+            "address": "Bhatli chowk, infront of new Kali mandir, Bargarh, Orissa, 768028",
+            "city": "Bargarh",
+            "state": "ODISHA",
+            "contact_number": "7077865655",
+            "since": "N/A"
         }
     ]
 }
