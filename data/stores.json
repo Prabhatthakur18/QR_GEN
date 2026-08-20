@@ -3428,6 +3428,24 @@
             "state": "ODISHA",
             "contact_number": "9861396227",
             "since": "17-08-2026"
+        },
+        {
+            "store_code": "FAUK302",
+            "store_name": "Aryan Autocraft",
+            "address": "Gatta No-416, Opposite Dwarkadas Shyam Kumar, Jalna Road, Chatrapati Sambhaji Nagar (Aurangabad) Maharashtra 431007",
+            "city": "Aurangabad",
+            "state": "MAHARASHTRA",
+            "contact_number": "9922276366 / 9153915393",
+            "since": "20-08-2026"
+        },
+        {
+            "store_code": "FHCC300",
+            "store_name": "HASE AUTO CARE",
+            "address": "Takshak Apartment, Behind Balaji Lawns, Nagalapark, Kolhapur 416003",
+            "city": "KOLHAPUR",
+            "state": "MAHARASHTRA",
+            "contact_number": "9021790001",
+            "since": "20-08-2026"
         }
     ]
 }
