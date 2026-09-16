@@ -3446,6 +3446,24 @@
             "state": "MAHARASHTRA",
             "contact_number": "9021790001",
             "since": "20-08-2026"
+        },
+        {
+            "store_code": "FTCC303",
+            "store_name": "THE CAR TRENZ CUSTOMS",
+            "address": "Vinayak Campus, Plot No.2, Abrama Valak Brg., Near Mithil Valak, Surat, Gujarat 395013",
+            "city": "VALAK, SURAT",
+            "state": "GUJARAT",
+            "contact_number": "8733828233",
+            "since": "Since August"
+        },
+        {
+            "store_code": "FNCH308",
+            "store_name": "NARANG CAR HEAVEN",
+            "address": "Hanumangarh Road, Near Flyover Chowk, Abohar, Punjab 152116",
+            "city": "ABOHAR",
+            "state": "PUNJAB",
+            "contact_number": "9855754173",
+            "since": "Since August"
         }
     ]
 }
