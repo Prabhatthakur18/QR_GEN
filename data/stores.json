@@ -3464,6 +3464,15 @@
             "state": "PUNJAB",
             "contact_number": "9855754173",
             "since": "Since August"
+        },
+        {
+            "store_code": "FBI308",
+            "store_name": "CAR AZ (BIIJ INDUSTRIES PRIVATE LIMITED)",
+            "address": "Shop No.1, 2, 3, 4, Eagle Complex, Sector-01, Nerul East, Navi Mumbai 400706, Maharashtra",
+            "city": "MUMBAI",
+            "state": "MAHARASHTRA",
+            "contact_number": "9152963385",
+            "since": "N/A"
         }
     ]
 }
